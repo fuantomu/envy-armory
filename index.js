@@ -35,10 +35,10 @@ const affixStats = {
     2815: "DODGE_RATING",
     2822: "CRIT_RATING",
     3726: "HASTE_RATING",
+    3727: "HIT_RATING",
+    4058: "EXPERTISE_RATING",
     4059: "MASTERY_RATING",
-    4060: "PARRY_RATING",
-    9999: "HIT_RATING",
-    9999: "EXPERTISE_RATING"
+    4060: "PARRY_RATING"
 }
 
 const ignore_enchant = [12,13,17]
@@ -92,13 +92,16 @@ async function getSortedEquipment(characterName) {
                                 
                             }
 
+                            filtered = item["enchantments"].filter(entry => entry["enchantment_slot"]["id"] === 8 || entry["enchantment_slot"]["id"] === 9 || entry["enchantment_slot"]["id"] === 10 || entry["enchantment_slot"]["id"] === 11)
+                            console.log(filtered)
+
                             if(affixes[item["inventory_type"]["type"]]){
                                 if(affixes[item["inventory_type"]["type"]]["ids"].includes(item["item"]["id"])){
                                     filtered = item["enchantments"].filter(entry => entry["enchantment_slot"]["id"] === 8 || entry["enchantment_slot"]["id"] === 9 || entry["enchantment_slot"]["id"] === 10 || entry["enchantment_slot"]["id"] === 11)
                                     if(filtered.length > 0){
                                         item["link"] += "&rand="
                                     }
-
+                                    
                                     affixNames = filtered.map(entry => affixStats[entry["enchantment_id"]])
                                     
                                     keys = Object.keys(affixes[item["inventory_type"]["type"]]["affix"])
@@ -135,8 +138,8 @@ async function getSortedEquipment(characterName) {
     })
 }
 
-// getSortedEquipment("Sladanadk").then((a) => {
-//     console.log(a)
-// })
+getSortedEquipment("mimei").then((a) => {
+    //console.log(a)
+})
 
 module.exports = { getSortedEquipment : getSortedEquipment }
