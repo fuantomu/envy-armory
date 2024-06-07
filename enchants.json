@@ -140,7 +140,12 @@
         "name": "Chest - Peerless Stats",
         "itemid": 52779
     }],
-    "5": [],
+    "5": [{
+        "id": 3729,
+        "tier": 0,
+        "name": "Ebonsteel Belt Buckle",
+        "itemid": 55054
+    }],
     "6": [{
         "id": 4111,
         "tier": 1,
