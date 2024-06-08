@@ -145,6 +145,11 @@
         "tier": 0,
         "name": "Ebonsteel Belt Buckle",
         "itemid": 55054
+    },{
+        "id": 4223,
+        "tier": 0,
+        "name": "Nitro Boosts",
+        "itemid": 55016
     }],
     "6": [{
         "id": 4111,
@@ -407,6 +412,11 @@
         "itemid": 38967,
         "type": "agility",
         "role": "dps"
+    },{
+        "id": 4179,
+        "tier": 0,
+        "name": "Synapse Springs",
+        "itemid": 82175
     }],
     "10": [],
     "11": [],
@@ -482,6 +492,11 @@
         "name": "Cloak - Mighty Armor",
         "itemid": 39001,
         "role": "tank"
+    },{
+        "id": 3605,
+        "tier": 0,
+        "name": "Flexweave Underlay",
+        "itemid": 55002
     }],
     "15": [{
         "id": 3368,
