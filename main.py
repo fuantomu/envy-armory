@@ -43,7 +43,7 @@ affixStats = {
     4060: "PARRY_RATING"
 }
 
-ignore_enchant = [12,13,17]
+ignore_enchant = [3,12,13,18]
 
 def get_sorted_equipment(characterName):
     character = requests.get(baseUrl.replace("CHARACTERNAME", characterName.lower())).json()
@@ -85,6 +85,7 @@ def get_sorted_equipment(characterName):
 
                 if len(item["enchantments"]) > 0:
                     filtered = [entry for entry in item["enchantments"] if entry["enchantment_slot"]["id"] == 2 or entry["enchantment_slot"]["id"] == 3 or entry["enchantment_slot"]["id"] == 4]
+
                     if len(filtered) > 0:
                         item["link"] += "&gems="
 
