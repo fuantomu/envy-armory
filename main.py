@@ -43,7 +43,7 @@ affixStats = {
     4060: "PARRY_RATING"
 }
 
-ignore_enchant = [3,12,13,18]
+ignore_enchant = [3,18]
 
 def get_sorted_equipment(characterName):
     character = requests.get(baseUrl.replace("CHARACTERNAME", characterName.lower())).json()
