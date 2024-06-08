@@ -80,12 +80,13 @@ def get_sorted_equipment(characterName):
                     item["link"] += "&ench="
 
                 filtered = [enchant for enchant in enchants[str(slotNames[item["slot"]["type"]])] if any(enchant["id"] == item_enchant["enchantment_id"] for item_enchant in item["enchantments"]) or any(entry.get("enchantment_id") == 3729 for entry in item["enchantments"])]
+                item["enchants"] = filtered
                 if len(filtered) > 0:                    
                     item["link"] += ":".join(str(entry["id"]) for entry in filtered)
 
                 if len(item["enchantments"]) > 0:
                     filtered = [entry for entry in item["enchantments"] if entry["enchantment_slot"]["id"] == 2 or entry["enchantment_slot"]["id"] == 3 or entry["enchantment_slot"]["id"] == 4]
-
+                    item["gems"] = [{"id": entry["source_item"]["id"]} for entry in filtered]
                     if len(filtered) > 0:
                         item["link"] += "&gems="
 
