@@ -75,13 +75,13 @@ def get_sorted_equipment(characterName):
         item["link"] = ''
         if not slotNames[item["slot"]["type"]] in ignore_enchant:
             if item.get("enchantments"):
-
-                if item["enchantments"][0]["enchantment_id"] != 4080 and (item["enchantments"][0]["enchantment_slot"]["id"] == 0 or any(entry.get("enchantmend_id") == 3729 for entry in item["enchantments"])):
+                
+                if item["enchantments"][0]["enchantment_id"] != 4080 and (item["enchantments"][0]["enchantment_slot"]["id"] == 0 or any(entry.get("enchantment_id") == 3729 for entry in item["enchantments"])):
                     item["link"] += "&ench="
 
-                filtered = [enchant for enchant in enchants[str(slotNames[item["slot"]["type"]])] if enchant["id"] == item["enchantments"][0]["enchantment_id"] or any(entry.get("enchantmend_id") == 3729 for entry in item["enchantments"])]
-                if len(filtered) > 0:
-                    item["link"] += str(item["enchantments"][0]["enchantment_id"])
+                filtered = [enchant for enchant in enchants[str(slotNames[item["slot"]["type"]])] if any(enchant["id"] == item_enchant["enchantment_id"] for item_enchant in item["enchantments"]) or any(entry.get("enchantment_id") == 3729 for entry in item["enchantments"])]
+                if len(filtered) > 0:                    
+                    item["link"] += ":".join(str(entry["id"]) for entry in filtered)
 
                 if len(item["enchantments"]) > 0:
                     filtered = [entry for entry in item["enchantments"] if entry["enchantment_slot"]["id"] == 2 or entry["enchantment_slot"]["id"] == 3 or entry["enchantment_slot"]["id"] == 4]
@@ -106,14 +106,15 @@ def get_sorted_equipment(characterName):
                                 if all([stat in affixes[item["inventory_type"]["type"]]["affix"][affix]["stats"] for stat in affixNames]):
                                     item["link"] += str(affix)
                                     break
-
+            
             if item.get("set"):
                 item["link"] += "&pcs="
                 item["link"] += ":".join([str(item["item"]["id"]) for item in items])
             
             if len(item["link"]) > 0:
                 item["link"] = item["link"][1:]
-        sortedEquipment[item["slot"]["type"]] = item        
+        sortedEquipment[item["slot"]["type"]] = item
+
     return sortedEquipment
 
 
