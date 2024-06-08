@@ -1,7 +1,7 @@
 import requests
 import sys
 import json
-import base64
+
 accessToken = 'EU725AIXGpCL36IAx42VYPL0A1yW4zO863'
 baseUrl = f'https://eu.api.blizzard.com/profile/wow/character/everlook/CHARACTERNAME/equipment?namespace=profile-classic-eu&locale=en_DE&access_token={accessToken}'
 wowheadBaseUrl = 'https//www.wowhead.com/cata/de/item='
