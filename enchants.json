@@ -503,6 +503,11 @@
         "tier": 0,
         "name": "Flexweave Underlay",
         "itemid": 55002
+    },{
+        "id": 1354,
+        "tier": 2,
+        "name": "Cloak - Superior Fire Resistance",
+        "itemid": 44556
     }],
     "15": [{
         "id": 3368,
@@ -590,6 +595,11 @@
         "name": "Weapon - Berserking",
         "itemid": 44493,
         "role": "melee"
+    },{
+        "id": 3788,
+        "tier": 2,
+        "name": "Weapon - Accuracy",
+        "itemid": 59619
     }],
     "16": [{
         "id": 4091,
@@ -635,6 +645,11 @@
         "tier": 0,
         "name": "Rune of Razorice",
         "itemid": 53343
+    },{
+        "id": 3788,
+        "tier": 2,
+        "name": "Weapon - Accuracy",
+        "itemid": 59619
     }],
     "17": [{
         "id": 4267,
