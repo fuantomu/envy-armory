@@ -417,6 +417,12 @@
         "tier": 0,
         "name": "Synapse Springs",
         "itemid": 82174
+    },{
+        "id": 4180,
+        "tier": 0,
+        "name": "Quickflip Deflection Plates",
+        "itemid": 82177,
+        "role": "tank"
     }],
     "10": [],
     "11": [],
@@ -518,7 +524,8 @@
         "tier": 0,
         "name": "2H Weapon - Mighty Agility",
         "itemid": 68134,
-        "type": "agility"
+        "type": "agility",
+        "spec": "Guardian"
     },{
         "id": 4067,
         "tier": 1,
