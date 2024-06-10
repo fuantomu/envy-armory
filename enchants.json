@@ -600,6 +600,12 @@
         "tier": 2,
         "name": "Weapon - Accuracy",
         "itemid": 59619
+    },{
+        "id": 3854,
+        "tier": 2,
+        "name": "Staff - Greater Spellpower",
+        "itemid": 62948,
+        "description": "81 Spellpower"
     }],
     "16": [{
         "id": 4091,
