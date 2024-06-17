@@ -450,22 +450,26 @@
         "id": 4080,
         "tier": 0,
         "name": "Ring - Intellect",
-        "itemid": 74217
+        "itemid": 74217,
+        "role": "caster"
     },{
         "id": 4079,
         "tier": 0,
         "name": "Ring - Agility",
-        "itemid": 74216
+        "itemid": 74216,
+        "type": "agility"
     },{
         "id": 4081,
         "tier": 0,
         "name": "Ring - Greater Stamina",
-        "itemid": 74218
+        "itemid": 74218,
+        "role": "tank"
     },{
         "id": 4078,
         "tier": 0,
         "name": "Ring - Strength",
-        "itemid": 74215
+        "itemid": 74215,
+        "type": "strength"
     }],
     "13": [],
     "14": [{
