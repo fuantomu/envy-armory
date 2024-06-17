@@ -424,29 +424,7 @@
         "itemid": 82177,
         "role": "tank"
     }],
-    "10": [],
-    "11": [{
-        "id": 4080,
-        "tier": 0,
-        "name": "Ring - Intellect",
-        "itemid": 74217
-    },{
-        "id": 4079,
-        "tier": 0,
-        "name": "Ring - Agility",
-        "itemid": 74216
-    },{
-        "id": 4081,
-        "tier": 0,
-        "name": "Ring - Greater Stamina",
-        "itemid": 74218
-    },{
-        "id": 4078,
-        "tier": 0,
-        "name": "Ring - Strength",
-        "itemid": 74215
-    }],
-    "12": [{
+    "10": [{
         "id": 4080,
         "tier": 0,
         "name": "Ring - Intellect",
@@ -471,6 +449,32 @@
         "itemid": 74215,
         "type": "strength"
     }],
+    "11": [{
+        "id": 4080,
+        "tier": 0,
+        "name": "Ring - Intellect",
+        "itemid": 74217,
+        "type": "strength"
+    },{
+        "id": 4079,
+        "tier": 0,
+        "name": "Ring - Agility",
+        "itemid": 74216,
+        "type": "strength"
+    },{
+        "id": 4081,
+        "tier": 0,
+        "name": "Ring - Greater Stamina",
+        "itemid": 74218,
+        "type": "strength"
+    },{
+        "id": 4078,
+        "tier": 0,
+        "name": "Ring - Strength",
+        "itemid": 74215,
+        "type": "strength"
+    }],
+    "12": [],
     "13": [],
     "14": [{
         "id": 4064,
