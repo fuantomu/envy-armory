@@ -247,7 +247,7 @@
         "role": "tank"
     },{
         "id": 4069,
-        "tier": 1,
+        "tier": 0,
         "name": "Boots - Haste",
         "itemid": 52750
     },{
@@ -373,7 +373,7 @@
         "itemid": 52687
     },{
         "id": 4068,
-        "tier": 1,
+        "tier": 0,
         "name": "Gloves - Haste",
         "itemid": 52749
     },{
