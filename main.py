@@ -76,7 +76,7 @@ def get_sorted_equipment(characterName):
         if not slotNames[item["slot"]["type"]] in ignore_enchant:
             if item.get("enchantments"):
                 
-                if item["enchantments"][0]["enchantment_id"] != 4080 and (item["enchantments"][0]["enchantment_slot"]["id"] == 0 or any(entry.get("enchantment_id") == 3729 for entry in item["enchantments"])):
+                if item["enchantments"][0]["enchantment_slot"]["id"] == 0:
                     item["link"] += "&ench="
 
                 filtered = [enchant for enchant in enchants[str(slotNames[item["slot"]["type"]])] if any(enchant["id"] == item_enchant["enchantment_id"] for item_enchant in item["enchantments"]) or any(entry.get("enchantment_id") == 3729 for entry in item["enchantments"])]
