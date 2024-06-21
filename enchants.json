@@ -4,27 +4,35 @@
         "tier": 0,
         "name": "Arcanum of the Earthen Ring",
         "itemid": 62366,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+90 Stamina and +35 Dodge Rating",
+		"statsDE": "+90 Ausdauer und +35 Ausweichwertung"
     },{
         "id": 4209,
         "tier": 0,
         "name": "Arcanum of the Ramkahen",
         "itemid": 62369,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+60 Agility and +35 Haste Rating",
+        "statsDE": "+60 Beweglichkeit und +35 Tempowertung"
     },{
         "id": 4208,
         "tier": 0,
         "name": "Arcanum of the Highlands",
         "itemid": 62422,
         "type": "strength",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+60 Strength and +35 Mastery Rating",
+        "statsDE": "+60 Stärke und +35 Meisterschaftswertung"
     },{
         "id": 4207,
         "tier": 0,
         "name": "Arcanum of Hyjal",
         "itemid": 62367,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+60 Intellect and +35 Critical Strike Rating",
+        "statsDE": "+60 Intelligenz und +35 kritische Trefferwertung"
     }],
     "1":[],
     "2" : [{
@@ -32,205 +40,271 @@
         "tier": 1,
         "name": "Lesser Inscription of Charged Lodestone",
         "itemid": 62342,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+30 Intellect and +20 Haste Rating",
+        "statsDE": "+30 Intelligenz und +20 Tempowertung"
     },{
         "id": 4201,
         "tier": 1,
         "name": "Lesser Inscription of Jagged Stone",
         "itemid": 62344,
         "type": "strength",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+30 Strength and +20 Critical Strike Rating",
+        "statsDE": "+30 Stärke und +20 kritische Trefferwertung"
     },{
         "id": 4205,
         "tier": 0,
         "name": "Lesser Inscription of Shattered Crystal",
         "itemid": 62347,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+30 Agility and +20 Mastery Rating",
+        "statsDE": "+30 Beweglichkeit und +20 Meisterschaftswertung"
     },{
         "id": 4197,
         "tier": 0,
         "name": "Lesser Inscription of Unbreakable Quartz",
         "itemid": 62321,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+45 Stamina and +20 Dodge Rating",
+        "statsDE": "+45 Ausdauer und +20 Ausweichwertung"
     },{
         "id": 4200,
         "tier": 0,
         "name": "Greater Inscription of Charged Lodestone",
         "itemid": 62343,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+50 Intellect and +25 Haste Rating",
+        "statsDE": "+50 Intelligenz und +25 Tempowertung"
     },{
         "id": 4202,
         "tier": 0,
         "name": "Greater Inscription of Jagged Stone",
         "itemid": 62345,
         "type": "strength",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+50 Strength and +25 Critical Strike Rating",
+        "statsDE": "+50 Stärke und +25 kritische Trefferwertung"
     },{
         "id": 4204,
         "tier": 0,
         "name": "Greater Inscription of Shattered Crystal",
         "itemid": 62346,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+50 Agility and +25 Mastery rating",
+        "statsDE": "+50 Beweglichkeit und +25 Meisterschaftswertung"
     },{
         "id": 4198,
         "tier": 0,
         "name": "Greater Inscription of Unbreakable Quartz",
         "itemid": 62333,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+75 Stamina and +25 Dodge Rating",
+        "statsDE": "+75 Ausdauer und +25 Ausweichwertung"
     },{
         "id": 4196,
         "tier": 0,
         "name": "Felfire Inscription",
         "itemid": 86403,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+130 Intellect and +25 Haste Rating",
+		"statsDE": "+130 Intelligenz und +25 Tempowertung"
     },{
         "id": 4195,
         "tier": 0,
         "name": "Inscription of the Earth Prince",
         "itemid": 86402,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+195 Stamina and +25 Dodge Rating",
+		"statsDE": "+195 Ausdauer und +25 Ausweichwertung"
     },{
         "id": 4194,
         "tier": 0,
         "name": "Lionsmane Inscription",
         "itemid": 86401,
         "type": "strength",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+130 Strength and +25 Critical Strike Rating",
+		"statsDE": "+130 Stärke und +25 kritische Trefferwertung"
     },{
         "id": 4193,
         "tier": 0,
         "name": "Swiftsteel Inscription",
         "itemid": 86375,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+130 Agility and +25 Mastery Rating",
+		"statsDE": "+130 Beweglichkeit und +25 Meisterschaftswertung"
     }],
     "3": [],
     "4": [{
         "id": 4063,
         "tier": 1,
         "name": "Chest - Mighty Stats",
-        "itemid": 52744
+        "itemid": 52744,
+        "stats": "+15 All Stats",
+		"statsDE": "+15 alle Werte"
     },{
         "id": 4070,
         "tier": 1,
         "name": "Chest - Stamina",
         "itemid": 52751,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+55 Stamina",
+		"statsDE": "+55 Ausdauer"
     },{
         "id": 4077,
         "tier": 2,
         "name": "Chest - Mighty Resilience",
-        "itemid": 52758
+        "itemid": 52758,
+        "stats": "+40 Resilience Rating",
+		"statsDE": "+40 Abhärtungswertung"
     },{
         "id": 4088,
         "tier": 2,
         "name": "Chest - Exceptional Spirit",
-        "itemid": 52765
+        "itemid": 52765,
+        "stats": "+40 Spirit",
+		"statsDE": "+40 Willenskraft"
     },{
         "id": 4103,
         "tier": 0,
         "name": "Chest - Greater Stamina",
         "itemid": 52780,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+75 Stamina",
+		"statsDE": "+75 Ausdauer"
     },{
         "id": 4102,
         "tier": 0,
         "name": "Chest - Peerless Stats",
-        "itemid": 52779
+        "itemid": 52779,
+        "stats": "+20 All Stats",
+		"statsDE": "+20 alle Werte"
     }],
     "5": [{
         "id": 3729,
         "tier": 0,
         "name": "Ebonsteel Belt Buckle",
-        "itemid": 55054
+        "itemid": 55054,
+        "stats": "+ Socket",
+		"statsDE": "+ Sockel"
     },{
         "id": 4223,
         "tier": 0,
         "name": "Nitro Boosts",
-        "itemid": 55016
+        "itemid": 55016,
+        "stats": "Nitro Boosts",
+		"statsDE": "Nitrobooster"
     }],
     "6": [{
         "id": 4111,
         "tier": 1,
         "name": "Enchanted Spellthread",
         "itemid": 54447,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+55 Intellect and +65 Stamina",
+		"statsDE": "+55 Intelligenz und +65 Ausdauer"
     },{
         "id": 4109,
         "tier": 1,
         "name": "Ghostly Spellthread",
         "itemid": 54449,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+55 Intellect and +45 Spirit",
+		"statsDE": "+55 Intelligenz und +45 Willenskraft"
     },{
         "id": 4112,
         "tier": 0,
         "name": "Powerful Enchanted Spellthread",
         "itemid": 54448,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+95 Intellect and +80 Stamina",
+		"statsDE": "+95 Intelligenz und +80 Ausdauer"
     },{
         "id": 4110,
         "tier": 0,
         "name": "Powerful Ghostly Spellthread",
         "itemid": 54450,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+95 Intellect and +55 Spirit",
+		"statsDE": "+95 Intelligenz und +55 Willenskraft"
     },{
         "id": 4122,
         "tier": 1,
         "name": "Scorched Leg Armor",
         "itemid": 56502,
-        "role": "dps"
+        "role": "dps",
+        "stats": "+110 Attack Power und +45 Critical Strike Rating",
+		"statsDE": "+110 Angriffskraft und +45 kritische Trefferwertung"
     },{
         "id": 4124,
         "tier": 1,
         "name": "Twilight Leg Armor",
         "itemid": 56503,
         "type": "agility",
-        "role": "tank"
+        "role": "tank",
+        "stats": "+85 Stamina and +45 Agility",
+		"statsDE": "+85 Ausdauer und +45 Beweglichkeit"
     },{
         "id": 4127,
         "tier": 0,
         "name": "Charscale Leg Armor",
         "itemid": 56551,
         "type": "agility",
-        "role": "tank"
+        "role": "tank",
+        "stats": "+145 Stamina and +55 Agility",
+		"statsDE": "+145 Ausdauer und +55 Beweglichkeit"
     },{
         "id": 4126,
         "tier": 0,
         "name": "Dragonscale Leg Armor",
         "itemid": 56550,
-        "role": "dps"
+        "role": "dps",
+        "stats": "+190 Attack Power and +55 Critical Strike Rating",
+		"statsDE": "+190 Angriffskraft und +55 kritische Trefferwertung"
     },{
         "id": 4270,
         "tier": 0,
         "name": "Drakehide Leg Armor",
         "itemid": 71720,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+145 Stamina and +55 Dodge Rating",
+		"statsDE": "+145 Ausdauer und +55 Ausweichwertung"
     },{
         "id": 4113,
         "tier": 0,
         "name": "Master's Spellthread",
         "itemid": 75154,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+95 Intellect and +80 Stamina",
+		"statsDE": "+95 Intelligenz und +80 Ausdauer"
     },{
         "id": 4114,
         "tier": 0,
         "name": "Sanctified Spellthread",
         "itemid": 75155,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+95 Intellect and +55 Spirit",
+		"statsDE": "+95 Intelligenz und +55 Willenskraft"
     },{
         "id": 4440,
         "tier": 0,
         "name": "Dragonbone Leg Reinforcements",
         "itemid": 85067,
-        "role": "dps"
+        "role": "dps",
+		"stats": "+190 Attack Power and +55 Critical Strike Rating",
+		"statsDE": "+190 Angriffskraft und +55 kritische Trefferwertung"
     },{
         "id": 4439,
         "tier": 0,
         "name": "Charscale Leg Reinforcements",
         "itemid": 85068,
-        "role": "tank"
+        "role": "tank",
+		"stats": "+145 Stamina and +55 Agility",
+		"statsDE": "+145 Ausdauer und +55 Beweglichkeit"
     }],
     "7": [{
         "id": 4105,
@@ -238,241 +312,323 @@
         "name": "Boots - Assassin's Step",
         "itemid": 52781,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+25 Agility and Minor Movement Speed",
+		"statsDE": "+25 Beweglichkeit und geringe Bewegungstempoerhöhung"
     },{
         "id": 4062,
         "tier": 0,
         "name": "Boots - Earthen Vitality",
         "itemid": 52743,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+30 Stamina and Minor Movement Speed",
+		"statsDE": "+30 Ausdauer und geringe Bewegungstempoerhöhung"
     },{
         "id": 4069,
         "tier": 0,
         "name": "Boots - Haste",
-        "itemid": 52750
+        "itemid": 52750,
+        "stats": "+50 Haste Rating",
+		"statsDE": "+50 Tempowertung"
     },{
         "id": 4104,
         "tier": 0,
         "name": "Boots - Lavawalker",
-        "itemid": 52782
+        "itemid": 52782,
+        "stats": "+35 Mastery Rating and Minor Movement Speed",
+		"statsDE": "+35 Meisterschaftswertung und geringe Bewegungstempoerhöhung"
     },{
         "id": 4076,
         "tier": 0,
         "name": "Boots - Major Agility",
         "itemid": 52757,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+35 Agility",
+		"statsDE": "+35 Beweglichkeit"
     },{
         "id": 4094,
         "tier": 0,
         "name": "Boots - Mastery",
-        "itemid": 52771
+        "itemid": 52771,
+		"stats": "+50 Mastery Rating",
+        "statsDE": "+50 Meisterschaftswertung"
     },{
         "id": 4092,
         "tier": 1,
         "name": "Boots - Precision",
-        "itemid": 52769
+        "itemid": 52769,
+        "stats": "+50 Hit Rating",
+		"statsDE": "+50 Trefferwertung"
     }],
     "8": [{
         "id": 4065,
         "tier": 1,
         "name": "Bracer - Speed",
-        "itemid": 52746
+        "itemid": 52746,
+        "stats": "+50 Haste Rating",
+		"statsDE": "+50 Tempowertung"
     },{
         "id": 4071,
         "tier": 1,
         "name": "Bracer - Critical Strike",
-        "itemid": 52752
+        "itemid": 52752,
+        "stats": "+50 Critical Strike Rating",
+		"statsDE": "+50 Kritische Trefferwertung"
     },{
         "id": 4086,
         "tier": 1,
         "name": "Bracer - Superior Dodge",
-        "itemid": 52763
+        "itemid": 52763,
+        "stats": "+50 Dodge Rating",
+		"statsDE": "+50 Ausweichwertung"
     },{
         "id": 4089,
         "tier": 1,
         "name": "Bracer - Precision",
-        "itemid": 52766
+        "itemid": 52766,
+        "stats": "+50 Hit Rating",
+		"statsDE": "+50 Trefferwertung"
     },{
         "id": 4093,
         "tier": 1,
         "name": "Bracer - Exceptional Spirit",
-        "itemid": 52770
+        "itemid": 52770,
+        "stats": "+50 Spirit",
+		"statsDE": "+50 Willenskraft"
     },{
         "id": 4095,
         "tier": 1,
         "name": "Bracer - Greater Expertise",
-        "itemid": 52772
+        "itemid": 52772,
+        "stats": "+50 Expertise Rating",
+		"statsDE": "+50 Waffenkundewertung"
     },{
         "id": 4258,
         "tier": 0,
         "name": "Bracer - Agility",
         "itemid": 68784,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+50 Agility",
+		"statsDE": "+50 Beweglichkeit"
     },{
         "id": 4256,
         "tier": 0,
         "name": "Bracer - Major Strength",
         "itemid": 68785,
         "type": "strength",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+50 Strength",
+		"statsDE": "+50 Stärke"
     },{
         "id": 4257,
         "tier": 0,
         "name": "Bracer - Mighty Intellect",
         "itemid": 68786,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+50 Intellect",
+		"statsDE": "+50 Intelligenz"
     },{
         "id": 4101,
         "tier": 0,
         "name": "Bracer - Greater Critical Strike",
-        "itemid": 52778
+        "itemid": 52778,
+        "stats": "+65 Critical Strike Rating",
+		"statsDE": "+65 Kritische Trefferwertung"
     },{
         "id": 4108,
         "tier": 0,
         "name": "Bracer - Greater Speed",
-        "itemid": 52778
+        "itemid": 52778,
+        "stats": "+65 Haste Rating",
+		"statsDE": "+65 Tempowertung"
     },{
         "id": 4190,
         "tier": 0,
         "name": "Draconic Embossment - Agility",
         "itemid": 85008,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+130 Agility",
+		"statsDE": "+130 Beweglichkeit"
     },{
         "id": 4192,
         "tier": 0,
         "name": "Draconic Embossment - Intellect",
         "itemid": 85010,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+130 Intellect",
+		"statsDE": "+130 Intelligenz"
     },{
         "id": 4189,
         "tier": 0,
         "name": "Draconic Embossment - Stamina",
         "itemid": 85007,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+195 Stamina",
+		"statsDE": "+195 Ausdauer"
     },{
         "id": 4191,
         "tier": 0,
         "name": "Draconic Embossment - Strength",
         "itemid": 85009,
         "type": "strength",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+130 Strength",
+		"statsDE": "+130 Stärke"
     },{
         "id": 3850,
         "tier": 0,
         "name": "Bracer - Major Stamina",
         "itemid": 44944,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+40 Stamina",
+		"statsDE": "+40 Ausdauer"
     }],
     "9": [{
         "id": 4061,
         "tier": 1,
         "name": "Gloves - Mastery",
-        "itemid": 52687
+        "itemid": 52687,
+        "stats": "+50 Mastery Rating",
+		"statsDE": "+50 Meisterschaftswertung"
     },{
         "id": 4068,
         "tier": 0,
         "name": "Gloves - Haste",
-        "itemid": 52749
+        "itemid": 52749,
+        "stats": "+50 Haste Rating",
+		"statsDE": "+50 Tempowertung"
     },{
         "id": 4075,
         "tier": 1,
         "name": "Gloves - Exceptional Strength",
         "itemid": 52756,
-        "type": "strength"
+        "type": "strength",
+        "stats": "+35 Strength",
+		"statsDE": "+35 Stärke"
     },{
         "id": 4082,
         "tier": 1,
         "name": "Gloves - Greater Expertise",
         "itemid": 52759,
-        "role": "melee"
+        "role": "melee",
+        "stats": "+50 Expertise Rating",
+		"statsDE": "+50 Waffenkundewertung"
     },{
         "id": 4107,
         "tier": 0,
         "name": "Gloves - Greater Mastery",
-        "itemid": 52784
+        "itemid": 52784,
+        "stats": "+65 Mastery Rating",
+		"statsDE": "+65 Meisterschaftswertung"
     },{
         "id": 4106,
         "tier": 0,
         "name": "Gloves - Mighty Strength",
         "itemid": 52783,
-        "type": "strength"
+        "type": "strength",
+        "stats": "+50 Strength",
+		"statsDE": "+50 Stärke"
     },{
         "id": 4121,
         "tier": 0,
         "name": "Heavy Savage Armor Kit",
         "itemid": 56517,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+44 Stamina",
+		"statsDE": "+44 Ausdauer"
     },{
         "id": 3222,
         "tier": 0,
         "name": "Gloves - Major Agility",
         "itemid": 38967,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+20 Agility",
+		"statsDE": "+20 Beweglichkeit"
     },{
         "id": 4179,
         "tier": 0,
         "name": "Synapse Springs",
-        "itemid": 82174
+        "itemid": 82174,
+        "stats": "Synapse Springs",
+		"statsDE": "Synapsenfedern"
     },{
         "id": 4180,
         "tier": 0,
         "name": "Quickflip Deflection Plates",
         "itemid": 82177,
-        "role": "tank"
+        "role": "tank",
+        "stats": "Quickflip Deflection Plates",
+		"statsDE": "Schnelldrehende Abwehrplatten"
     }],
     "10": [{
         "id": 4080,
         "tier": 0,
         "name": "Ring - Intellect",
         "itemid": 74217,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+40 Intellect",
+		"statsDE": "+40 Intelligenz"
     },{
         "id": 4079,
         "tier": 0,
         "name": "Ring - Agility",
         "itemid": 74216,
-        "type": "agility"
+        "type": "agility",
+        "stats": "+40 Agility",
+		"statsDE": "+40 Beweglichkeit"
     },{
         "id": 4081,
         "tier": 0,
         "name": "Ring - Greater Stamina",
         "itemid": 74218,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+40 Stamina",
+		"statsDE": "+40 Ausdauer"
     },{
         "id": 4078,
         "tier": 0,
         "name": "Ring - Strength",
         "itemid": 74215,
-        "type": "strength"
+        "type": "strength",
+        "stats": "+40 Strength",
+		"statsDE": "+40 Stärke"
     }],
     "11": [{
         "id": 4080,
         "tier": 0,
         "name": "Ring - Intellect",
         "itemid": 74217,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+40 Intellect",
+		"statsDE": "+40 Intelligenz"
     },{
         "id": 4079,
         "tier": 0,
         "name": "Ring - Agility",
         "itemid": 74216,
-        "type": "agility"
+        "type": "agility",
+        "stats": "+40 Agility",
+		"statsDE": "+40 Beweglichkeit"
     },{
         "id": 4081,
         "tier": 0,
         "name": "Ring - Greater Stamina",
         "itemid": 74218,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+40 Stamina",
+		"statsDE": "+40 Ausdauer"
     },{
         "id": 4078,
         "tier": 0,
         "name": "Ring - Strength",
         "itemid": 74215,
-        "type": "strength"
+        "type": "strength",
+        "stats": "+40 Strength",
+		"statsDE": "+40 Stärke"
     }],
     "12": [],
     "13": [],
@@ -480,254 +636,348 @@
         "id": 4064,
         "tier": 2,
         "name": "Cloak - Greater Spell Piercing",
-        "itemid": 52785
+        "itemid": 52745,
+        "stats": "+70 Spell Penetration",
+		"statsDE": "+70 Zauberdurchschlag"
     },{
         "id": 4072,
         "tier": 1,
         "name": "Cloak - Intellect",
         "itemid": 52753,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+30 Intellect",
+		"statsDE": "+30 Intelligenz"
     },{
         "id": 4087,
         "tier": 1,
         "name": "Cloak - Critical Strike",
-        "itemid": 52764
+        "itemid": 52764,
+        "stats": "+50 Critical Strike Rating",
+		"statsDE": "+50 Kritische Trefferwertung"
     },{
         "id": 4090,
         "tier": 0,
         "name": "Cloak - Protection",
         "itemid": 52767,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+250 Armor",
+		"statsDE": "+250 Rüstung"
     },{
         "id": 4096,
         "tier": 0,
         "name": "Cloak - Greater Intellect",
         "itemid": 52773,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+50 Intellect",
+		"statsDE": "+50 Intelligenz"
     },{
         "id": 4100,
         "tier": 0,
         "name": "Cloak - Greater Critical Strike",
-        "itemid": 52777
+        "itemid": 52777,
+        "stats": "+65 Critical Strike Rating",
+		"statsDE": "+65 Kritische Trefferwertung"
     },{
         "id": 4116,
         "tier": 0,
         "name": "Darkglow Embroidery",
         "itemid": 75175,
-        "role": "healer"
+        "role": "healer",
+        "stats": "Darkglow Embroidery",
+		"statsDE": "Dunkel glühendes Garn"
     },{
         "id": 4115,
         "tier": 0,
         "name": "Lightweave Embroidery",
         "itemid": 75172,
-        "role": "caster"
+        "role": "caster",
+        "stats": "Lightweave Embroidery",
+		"statsDE": "Hell leuchtendes Garn"
     },{
         "id": 4118,
         "tier": 0,
         "name": "Swordguard Embroidery",
         "itemid": 75178,
-        "role": "melee"
+        "role": "melee",
+        "stats": "Swordguard Embroidery",
+		"statsDE": "Schwertwallgarn"
     },{
         "id": 3722,
         "tier": 2,
         "name": "Lightweave Embroidery (Rank 1)",
         "itemid": 55642,
-        "role": "caster"
+        "role": "caster",
+        "stats": "Lightweave Embroidery (Rank 1)",
+		"statsDE": "Hell leuchtendes Garn (Rang 1)"
     },{
         "id": 1099,
         "tier": 0,
         "name": "Cloak - Major Agility",
         "itemid": 44457,
         "type": "agility",
-        "role": "dps"
+        "role": "dps",
+        "stats": "+22 Agility",
+		"statsDE": "+22 Beweglichkeit"
     },{
         "id": 3294,
         "tier": 2,
         "name": "Cloak - Mighty Armor",
         "itemid": 39001,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+225 Armor",
+		"statsDE": "+225 Rüstung"
     },{
         "id": 3605,
         "tier": 0,
         "name": "Flexweave Underlay",
-        "itemid": 55002
+        "itemid": 55002,
+        "stats": "Flexweave Underlay",
+		"statsDE": "Dehnbares Innenfutter"
     },{
         "id": 1354,
         "tier": 2,
         "name": "Cloak - Superior Fire Resistance",
-        "itemid": 44556
+        "itemid": 44556,
+        "stats": "+20 Fire Resistance",
+		"statsDE": "+20 Feuerwiderstand"
     }],
     "15": [{
         "id": 3368,
         "tier": 0,
         "name": "Rune of the Fallen Crusader",
-        "itemid": 53344
+        "itemid": 53344,
+        "stats": "Rune of the Fallen Crusader",
+		"statsDE": "Rune des gefallenen Kreuzfahrers"
     },{
         "id": 3847,
         "tier": 0,
         "name": "Rune of the Stoneskin Gargoyle",
-        "itemid": 62158
+        "itemid": 62158,
+        "stats": "Rune of the Stoneskin Gargoyle",
+		"statsDE": "Rune des Steinhautgargoyles"
     },{
         "id": 3370,
         "tier": 0,
         "name": "Rune of Razorice",
-        "itemid": 53343
+        "itemid": 53343,
+        "stats": "Rune of Razorice",
+		"statsDE": "Rune des schneidenden Eises"
     },{
         "id": 4227,
         "tier": 0,
         "name": "2H Weapon - Mighty Agility",
         "itemid": 68134,
         "type": "agility",
-        "spec": "Guardian"
+        "spec": "Guardian",
+        "stats": "+130 Agility",
+		"statsDE": "+130 Beweglichkeit"
     },{
         "id": 4067,
         "tier": 1,
         "name": "Weapon - Avalanche",
         "itemid": 52748,
-        "role": "melee"
+        "role": "melee",
+        "stats": "Avalanche",
+		"statsDE": "Lawine"
     },{
         "id": 4074,
         "tier": 1,
         "name": "Weapon - Elemental Slayer",
         "itemid": 52755,
-        "role": "melee"
+        "role": "melee",
+        "stats": "Elemental Slayer",
+		"statsDE": "Elementartöter"
     },{
         "id": 4084,
         "tier": 1,
         "name": "Weapon - Heartsong",
         "itemid": 52761,
-        "role": "healer"
+        "role": "healer",
+        "stats": "Heartsong",
+		"statsDE": "Gesang des Herzens"
     },{
         "id": 4083,
         "tier": 1,
         "name": "Weapon - Hurricane",
-        "itemid": 52760
+        "itemid": 52760,
+        "stats": "Hurricane",
+		"statsDE": "Hurrikan"
     },{
         "id": 4099,
         "tier": 0,
         "name": "Weapon - Landslide",
         "itemid": 52776,
-        "role": "melee"
+        "role": "melee",
+        "stats": "Landslide",
+		"statsDE": "Erdrutsch"
     },{
         "id": 4066,
         "tier": 2,
         "name": "Weapon - Mending",
-        "itemid": 52747
+        "itemid": 52747,
+        "stats": "Mending",
+		"statsDE": "Besserung"
     },{
         "id": 4097,
         "tier": 0,
         "name": "Weapon - Power Torrent",
         "itemid": 52774,
-        "role": "caster"
+        "role": "caster",
+        "stats": "Power Torrent",
+		"statsDE": "Machtstrom"
     },{
         "id": 4098,
         "tier": 0,
         "name": "Weapon - Windwalk",
         "itemid": 52775,
-        "role": "tank"
+        "role": "tank",
+        "stats": "Windwalk",
+		"statsDE": "Windwandler"
     },{
         "id": 3870,
         "tier": 2,
         "name": "Weapon - Blood Draining",
         "itemid": 46098,
-        "role": "tank"
+        "role": "tank",
+        "stats": "Blood Draining",
+		"statsDE": "Blutsauger"
     },{
         "id": 3834,
         "tier": 2,
         "name": "Weapon - Mighty Spellpower",
         "itemid": 44487,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+63 Spellpower",
+		"statsDE": "+63 Zaubermacht"
     },{
         "id": 3789,
         "tier": 2,
         "name": "Weapon - Berserking",
         "itemid": 44493,
-        "role": "melee"
+        "role": "melee",
+        "stats": "Berserking",
+		"statsDE": "Berserker"
     },{
         "id": 3788,
         "tier": 2,
         "name": "Weapon - Accuracy",
-        "itemid": 59619
+        "itemid": 59619,
+        "stats": "+25 Hit Rating and +25 Critical Strike Rating",
+		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung"
     },{
         "id": 3854,
         "tier": 2,
         "name": "Staff - Greater Spellpower",
         "itemid": 62948,
-        "description": "81 Spellpower"
+        "stats": "+81 Spellpower",
+		"statsDE": "+81 Zaubermacht"
     }],
     "16": [{
         "id": 4091,
         "tier": 0,
         "name": "Off-Hand - Superior Intellect",
         "itemid": 52768,
-        "role": "caster"
+        "role": "caster",
+        "stats": "+40 Intellect",
+		"statsDE": "+40 Intelligenz"
     },{
         "id": 4085,
         "tier": 0,
         "name": "Shield - Mastery",
-        "itemid": 52762
+        "itemid": 52762,
+        "stats": "+50 Mastery Rating",
+		"statsDE": "+50 Meisterschaftswertung"
     },{
         "id": 4073,
         "tier": 1,
         "name": "Shield - Protection",
         "itemid": 52754,
-        "role": "tank"
+        "role": "tank",
+        "stats": "+160 Armor",
+		"statsDE": "+160 Rüstung"
     },{
         "id": 3368,
         "tier": 0,
         "name": "Rune of the Fallen Crusader",
-        "itemid": 53344
+        "itemid": 53344,
+        "stats": "Rune of the Fallen Crusader",
+		"statsDE": "Rune des gefallenen Kreuzfahrers"
     },{
         "id": 3847,
         "tier": 0,
         "name": "Rune of the Stoneskin Gargoyle",
-        "itemid": 62158
+        "itemid": 62158,
+        "stats": "Rune of the Stoneskin Gargoyle",
+		"statsDE": "Rune des Steinhautgargoyles"
+    },{
+        "id": 3370,
+        "tier": 0,
+        "name": "Rune of Razorice",
+        "itemid": 53343,
+        "stats": "Rune of Razorice",
+		"statsDE": "Rune des schneidenden Eises"
     },{
         "id": 4083,
         "tier": 1,
         "name": "Weapon - Hurricane",
         "itemid": 52760,
-        "role": "melee"
+        "stats": "Hurricane",
+		"statsDE": "Hurrikan"
     },{
         "id": 4099,
         "tier": 0,
         "name": "Weapon - Landslide",
         "itemid": 52776,
-        "role": "melee"
+        "role": "melee",
+        "stats": "Landslide",
+		"statsDE": "Erdrutsch"
     },{
-        "id": 3370,
-        "tier": 0,
-        "name": "Rune of Razorice",
-        "itemid": 53343
+        "id": 3789,
+        "tier": 2,
+        "name": "Weapon - Berserking",
+        "itemid": 44493,
+        "role": "melee",
+        "stats": "Berserking",
+		"statsDE": "Berserker"
     },{
         "id": 3788,
         "tier": 2,
         "name": "Weapon - Accuracy",
-        "itemid": 59619
+        "itemid": 59619,
+        "stats": "+25 Hit Rating and +25 Critical Strike Rating",
+		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung"
     }],
     "17": [{
         "id": 4267,
         "tier": 0,
         "name": "Flintlocke's Woodchucker",
         "itemid": 70139,
-        "role": "ranged"
+        "role": "ranged",
+        "stats": "Flintlocke's Woodchucker",
+		"statsDE": "Flintlockes Holzhacker"
     },{
         "id": 4175,
         "tier": 1,
         "name": "Gnomish X-Ray Scope",
         "itemid": 59594,
-        "role": "ranged"
+        "role": "ranged",
+        "stats": "Gnomish X-Ray Scope",
+		"statsDE": "Gnomisches Röntgenzielfernrohr"
     },{
         "id": 4177,
         "tier": 2,
         "name": "Safety Catch Removal Kit",
         "itemid": 59596,
-        "role": "ranged"
+        "role": "ranged",
+        "stats": "+88 Ranged Haste Rating",
+		"statsDE": "+88 Distanztempowertung"
     },{
         "id": 4176,
         "tier": 2,
         "name": "R19 Threatfinder",
         "itemid": 59595,
-        "role": "ranged"
+        "role": "ranged",
+        "stats": "+88 Ranged Hit Rating",
+		"statsDE": "+88 Distanztrefferwertung"
     }]
 }
