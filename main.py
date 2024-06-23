@@ -2,8 +2,11 @@ import requests
 import sys
 import json
 
-accessToken = ''
-baseUrl = f'https://eu.api.blizzard.com/profile/wow/character/everlook/CHARACTERNAME/equipment?namespace=profile-classic-eu&locale=en_DE&access_token={accessToken}'
+# Battle.net API access from https://develop.battle.net/access/clients
+client_id = ''
+client_secret = ''
+
+baseUrl = f'https://eu.api.blizzard.com/profile/wow/character/everlook/CHARACTERNAME/equipment?namespace=profile-classic-eu&locale=en_DE&access_token='
 wowheadBaseUrl = 'https//www.wowhead.com/cata/de/item='
 
 slotNames = {
@@ -45,8 +48,8 @@ affixStats = {
 
 ignore_enchant = [3,18]
 
-def get_sorted_equipment(characterName):
-    character = requests.get(baseUrl.replace("CHARACTERNAME", characterName.lower())).json()
+def get_sorted_equipment(characterName, token):
+    character = requests.get(f"{baseUrl}{token}".replace("CHARACTERNAME", characterName.lower())).json()
     enchants = requests.get('https://raw.githubusercontent.com/fuantomu/envy-armory/main/enchants.json').json()
     affixes = requests.get("https://raw.githubusercontent.com/fuantomu/envy-armory/main/affix.json").json()
     sortedEquipment = {
@@ -118,8 +121,20 @@ def get_sorted_equipment(characterName):
 
     return sortedEquipment
 
+def get_token():
+    url = "https://eu.battle.net/oauth/token"
+    result = json.loads(requests.post(url, data={
+        "client_id": client_id,
+        "client_secret": client_secret,
+        "grant_type": "client_credentials"
+    }).text)
+    return result.get("access_token")
 
 if __name__ == "__main__":
-    result = get_sorted_equipment(sys.argv[1])
+    if len(sys.argv) > 2:
+        result = get_sorted_equipment(sys.argv[1])
+    else:
+        result = get_sorted_equipment(sys.argv[1], get_token())
+    
     print(json.dumps(result))
     exit
