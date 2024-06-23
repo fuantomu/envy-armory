@@ -130,11 +130,11 @@
         "affix": {
             "-192": {
                 "name": "of the Feverflare",
-                "stats": ["INTELLECT","MASTERY_RATING","HASTE_RATING"]
+                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
             },
             "-191": {
                 "name": "of the Fireflash",
-                "stats": ["INTELLECT","HASTE_RATING","CRIT_RATING"]
+                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
             },
             "-193": {
                 "name": "of the Undertow",
@@ -195,11 +195,11 @@
         "affix": {
             "-138": {
                 "name": "of the Feverflare",
-                "stats": ["INTELLECT","MASTERY_RATING","HASTE_RATING"]
+                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
             },
             "-130": {
                 "name": "of the Fireflash",
-                "stats": ["INTELLECT","HASTE_RATING","CRIT_RATING"]
+                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
             },
             "-114": {
                 "name": "of the Flameblaze",
@@ -268,11 +268,11 @@
         "affix": {
             "-138": {
                 "name": "of the Feverflare",
-                "stats": ["INTELLECT","MASTERY_RATING","HASTE_RATING"]
+                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
             },
             "-130": {
                 "name": "of the Fireflash",
-                "stats": ["INTELLECT","HASTE_RATING","CRIT_RATING"]
+                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
             },
             "-114": {
                 "name": "of the Flameblaze",
@@ -341,11 +341,11 @@
         "affix": {
             "-138": {
                 "name": "of the Feverflare",
-                "stats": ["INTELLECT","MASTERY_RATING","HASTE_RATING"]
+                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
             },
             "-130": {
                 "name": "of the Fireflash",
-                "stats": ["INTELLECT","HASTE_RATING","CRIT_RATING"]
+                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
             },
             "-114": {
                 "name": "of the Flameblaze",
