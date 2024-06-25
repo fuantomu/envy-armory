@@ -698,7 +698,7 @@
         "tier": 0,
         "name": "Swordguard Embroidery",
         "itemid": 75178,
-        "role": "dps",
+        "role": "physical",
         "stats": "Swordguard Embroidery",
 		"statsDE": "Schwertwallgarn"
     },{
