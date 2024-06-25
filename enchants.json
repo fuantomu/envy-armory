@@ -698,7 +698,7 @@
         "tier": 0,
         "name": "Swordguard Embroidery",
         "itemid": 75178,
-        "role": "melee",
+        "role": "dps",
         "stats": "Swordguard Embroidery",
 		"statsDE": "Schwertwallgarn"
     },{
