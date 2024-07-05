@@ -305,6 +305,38 @@
         "role": "tank",
 		"stats": "+145 Stamina and +55 Agility",
 		"statsDE": "+145 Ausdauer und +55 Beweglichkeit"
+    },{
+        "id": 3823,
+        "tier": 2,
+        "name": "Icescale Leg Armor",
+        "itemid": 38374,
+        "role": "physical",
+		"stats": "+75 Attack Power and +22 Critical Strike Rating",
+		"statsDE": "+75 Angriffskraft and +22 kritische Trefferwertung"
+    },{
+        "id": 3822,
+        "tier": 2,
+        "name": "Frosthide Leg Armor",
+        "itemid": 38373,
+        "role": "tank",
+		"stats": "+55 Stamina and +22 Agility",
+		"statsDE": "+55 Ausdauer and +22 Beweglichkeit"
+    },{
+        "id": 3328,
+        "tier": 2,
+        "name": "Nerubian Leg Reinforcements",
+        "itemid": 60584,
+        "role": "physical",
+		"stats": "+75 Attack Power and +22 Critical Strike Rating",
+		"statsDE": "+75 Angriffskraft and +22 kritische Trefferwertung"
+    },{
+        "id": 3327,
+        "tier": 2,
+        "name": "Jormungar Leg Reinforcements",
+        "itemid": 60583,
+        "role": "tank",
+		"stats": "+55 Stamina and +22 Agility",
+		"statsDE": "+55 Ausdauer and +22 Beweglichkeit"
     }],
     "7": [{
         "id": 4105,
