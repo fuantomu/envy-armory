@@ -657,6 +657,20 @@
         "role": "dps",
         "stats": "+16 Agility",
 		"statsDE": "+16 Beweglichkeit"
+    },{
+        "id": 1597,
+        "tier": 2,
+        "name": "Boots - Greater Assault",
+        "itemid": 60763,
+        "stats": "+32 Attack Power",
+		"statsDE": "+32 Angriffskraft"
+    },{
+        "id": 3824,
+        "tier": 2,
+        "name": "Boots - Assault",
+        "itemid": 60606,
+        "stats": "+24 Attack Power",
+		"statsDE": "+24 Angriffskraft"
     }],
     "8": [{
         "id": 4065,
@@ -963,6 +977,34 @@
         "role": "tank",
         "stats": "+240 Armor",
 		"statsDE": "+240 Rüstung"
+    },{
+        "id": 3246,
+        "tier": 2,
+        "name": "Gloves - Exceptional Spellpower",
+        "itemid": 44592,
+        "stats": "+28 Spellpower",
+		"statsDE": "+28 Zaubermacht"
+    },{
+        "id": 2937,
+        "tier": 2,
+        "name": "Gloves - Major Spellpower",
+        "itemid": 33997,
+        "stats": "+20 Spellpower",
+		"statsDE": "+20 Zaubermacht"
+    },{
+        "id": 1603,
+        "tier": 2,
+        "name": "Gloves - Crusher",
+        "itemid": 60668,
+        "stats": "+44 Attack Power",
+		"statsDE": "+44 Angriffskraft"
+    },{
+        "id": 3234,
+        "tier": 2,
+        "name": "Gloves - Precision",
+        "itemid": 44488,
+        "stats": "+20 Hit Rating",
+		"statsDE": "+20 Trefferwertung"
     }],
     "10": [{
         "id": 4080,
@@ -1429,6 +1471,14 @@
         "type": "agility",
         "stats": "Mongoose",
 		"statsDE": "Mungo"
+    },{
+        "id": 1128,
+        "tier": 2,
+        "name": "Shield - Greater Intellect",
+        "itemid": 60653,
+        "role": "caster",
+        "stats": "+25 Intellect",
+		"statsDE": "+25 Intelligenz"
     }],
     "17": [{
         "id": 4267,
