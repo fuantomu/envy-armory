@@ -823,6 +823,20 @@
         "role": "caster",
         "stats": "+16 Intellect",
 		"statsDE": "+16 Intelligenz"
+    },{
+        "id": 2650,
+        "tier": 2,
+        "name": "Bracer - Spellpower",
+        "itemid": 27917,
+        "stats": "+15 Spellpower",
+		"statsDE": "+15 Zaubermacht"
+    },{
+        "id": 2326,
+        "tier": 2,
+        "name": "Bracer - Greater Spellpower",
+        "itemid": 44635,
+        "stats": "+23 Spellpower",
+		"statsDE": "+23 Zaubermacht"
     }],
     "9": [{
         "id": 4061,
@@ -918,6 +932,14 @@
         "role": "dps",
         "stats": "+15 Agility",
 		"statsDE": "+15 Beweglichkeit"
+    },{
+        "id": 3260,
+        "tier": 0,
+        "name": "Glove Reinforcement",
+        "itemid": 34207,
+        "role": "tank",
+        "stats": "+240 Armor",
+		"statsDE": "+240 Rüstung"
     }],
     "10": [{
         "id": 4080,
@@ -1118,6 +1140,13 @@
         "stats": "Rune of Razorice",
 		"statsDE": "Rune des schneidenden Eises"
     },{
+        "id": 3883,
+        "tier": 0,
+        "name": "Rune of the Nerubian Carapace",
+        "itemid": 70164,
+        "stats": "Rune of the Nerubian Carapace",
+		"statsDE": "Rune der nerubischen Panzerung"
+    },{
         "id": 4227,
         "tier": 0,
         "name": "2H Weapon - Mighty Agility",
@@ -1285,6 +1314,13 @@
         "itemid": 53343,
         "stats": "Rune of Razorice",
 		"statsDE": "Rune des schneidenden Eises"
+    },{
+        "id": 3883,
+        "tier": 0,
+        "name": "Rune of the Nerubian Carapace",
+        "itemid": 70164,
+        "stats": "Rune of the Nerubian Carapace",
+		"statsDE": "Rune der nerubischen Panzerung"
     },{
         "id": 4083,
         "tier": 1,
