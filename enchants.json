@@ -92,6 +92,22 @@
         "role": "caster",
         "stats": "+60 Intellect and +35 Resilience rating",
         "statsDE": "+60 Intelligenz und +35 Abhärtungswertung"
+    },{
+        "id": 4121,
+        "tier": 2,
+        "name": "Heavy Savage Armor Kit",
+        "itemid": 56517,
+        "role": "tank",
+        "stats": "+44 Stamina",
+		"statsDE": "+44 Ausdauer"
+    },{
+        "id": 4120,
+        "tier": 2,
+        "name": "Savage Armor Kit",
+        "itemid": 56477,
+        "role": "tank",
+        "stats": "+36 Stamina",
+		"statsDE": "+36 Ausdauer"
     }],
     "1":[],
     "2" : [{
@@ -253,6 +269,22 @@
         "role": "dps",
         "stats": "+40 Attack Power and +15 Crit Rating",
         "statsDE": "+40 Angriffskraft und +15 kritische Trefferwertung"
+    },{
+        "id": 4121,
+        "tier": 2,
+        "name": "Heavy Savage Armor Kit",
+        "itemid": 56517,
+        "role": "tank",
+        "stats": "+44 Stamina",
+		"statsDE": "+44 Ausdauer"
+    },{
+        "id": 4120,
+        "tier": 2,
+        "name": "Savage Armor Kit",
+        "itemid": 56477,
+        "role": "tank",
+        "stats": "+36 Stamina",
+		"statsDE": "+36 Ausdauer"
     }],
     "3": [],
     "4": [{
@@ -306,6 +338,22 @@
         "itemid": 60692,
         "stats": "+10 All Stats",
 		"statsDE": "+10 alle Werte"
+    },{
+        "id": 4121,
+        "tier": 2,
+        "name": "Heavy Savage Armor Kit",
+        "itemid": 56517,
+        "role": "tank",
+        "stats": "+44 Stamina",
+		"statsDE": "+44 Ausdauer"
+    },{
+        "id": 4120,
+        "tier": 2,
+        "name": "Savage Armor Kit",
+        "itemid": 56477,
+        "role": "tank",
+        "stats": "+36 Stamina",
+		"statsDE": "+36 Ausdauer"
     }],
     "5": [{
         "id": 3729,
@@ -492,6 +540,22 @@
         "role": "caster",
         "stats": "+50 Spell Power and +20 Spirit",
 		"statsDE": "+50 Zaubermacht und +20 Willenskraft"
+    },{
+        "id": 4121,
+        "tier": 2,
+        "name": "Heavy Savage Armor Kit",
+        "itemid": 56517,
+        "role": "tank",
+        "stats": "+44 Stamina",
+		"statsDE": "+44 Ausdauer"
+    },{
+        "id": 4120,
+        "tier": 2,
+        "name": "Savage Armor Kit",
+        "itemid": 56477,
+        "role": "tank",
+        "stats": "+36 Stamina",
+		"statsDE": "+36 Ausdauer"
     }],
     "7": [{
         "id": 4105,
@@ -561,6 +625,13 @@
         "itemid": 13890,
         "stats": "Minor Speed Increase",
 		"statsDE": "Schwache Temposteigerung"
+    },{
+        "id": 3826,
+        "tier": 2,
+        "name": "Boots - Icewalker",
+        "itemid": 60623,
+        "stats": "+12 Hit Rating and +12 Critical Strike Rating",
+		"statsDE": "+12 Trefferwertung und +12 kritische Trefferwertung"
     }],
     "8": [{
         "id": 4065,
@@ -728,6 +799,14 @@
         "itemid": 57690,
         "stats": "+102 Stamina",
 		"statsDE": "+102 Ausdauer"
+    },{
+        "id": 1119,
+        "tier": 2,
+        "name": "Bracer - Exceptional Intellect",
+        "itemid": 44555,
+        "role": "caster",
+        "stats": "+16 Intellect",
+		"statsDE": "+16 Intelligenz"
     }],
     "9": [{
         "id": 4061,
@@ -782,6 +861,14 @@
         "role": "tank",
         "stats": "+44 Stamina",
 		"statsDE": "+44 Ausdauer"
+    },{
+        "id": 4120,
+        "tier": 1,
+        "name": "Savage Armor Kit",
+        "itemid": 56477,
+        "role": "tank",
+        "stats": "+36 Stamina",
+		"statsDE": "+36 Ausdauer"
     },{
         "id": 3222,
         "tier": 0,
