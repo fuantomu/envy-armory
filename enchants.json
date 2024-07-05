@@ -1292,6 +1292,30 @@
         "itemid": 44630,
         "stats": "+85 Attack Power",
 		"statsDE": "+85 Angriffskraft"
+    },{
+        "id": 3222,
+        "tier": 2,
+        "name": "Weapon - Greater Agility",
+        "itemid": 42620,
+        "type": "agility",
+        "stats": "+20 Agility",
+		"statsDE": "+20 Beweglichkeit"
+    },{
+        "id": 1103,
+        "tier": 2,
+        "name": "Weapon - Exceptional Agility",
+        "itemid": 44633,
+        "type": "agility",
+        "stats": "+26 Agility",
+		"statsDE": "+26 Beweglichkeit"
+    },{
+        "id": 2673,
+        "tier": 2,
+        "name": "Weapon - Mongoose",
+        "itemid": 27984,
+        "type": "agility",
+        "stats": "Mongoose",
+		"statsDE": "Mungo"
     }],
     "16": [{
         "id": 4091,
@@ -1381,6 +1405,30 @@
         "itemid": 55057,
         "stats": "Pyrium Weapon Chain",
 		"statsDE": "Pyriumwaffenkette"
+    },{
+        "id": 3222,
+        "tier": 2,
+        "name": "Weapon - Greater Agility",
+        "itemid": 42620,
+        "type": "agility",
+        "stats": "+20 Agility",
+		"statsDE": "+20 Beweglichkeit"
+    },{
+        "id": 1103,
+        "tier": 2,
+        "name": "Weapon - Exceptional Agility",
+        "itemid": 44633,
+        "type": "agility",
+        "stats": "+26 Agility",
+		"statsDE": "+26 Beweglichkeit"
+    },{
+        "id": 2673,
+        "tier": 2,
+        "name": "Weapon - Mongoose",
+        "itemid": 27984,
+        "type": "agility",
+        "stats": "Mongoose",
+		"statsDE": "Mungo"
     }],
     "17": [{
         "id": 4267,
