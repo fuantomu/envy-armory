@@ -33,6 +33,39 @@
         "role": "caster",
         "stats": "+60 Intellect and +35 Critical Strike Rating",
         "statsDE": "+60 Intelligenz und +35 kritische Trefferwertung"
+    },{
+        "id": 3820,
+        "tier": 2,
+        "name": "Arcanum of Burning Mysteries",
+        "itemid": 44159,
+        "role": "caster",
+        "stats": "+26 Intellect and +20 Critical strike rating",
+        "statsDE": "+26 Intelligenz und +20 kritische Trefferwertung"
+    },{
+        "id": 3817,
+        "tier": 2,
+        "name": "Arcanum of Torment",
+        "itemid": 44149,
+        "type": "strength",
+        "role": "dps",
+        "stats": "+50 Attack Power and +20 Critical Strike Rating",
+        "statsDE": "+50 Angriffskraft and +20 kritische Trefferwertung"
+    },{
+        "id": 3818,
+        "tier": 0,
+        "name": "Arcanum of the Stalwart Protector",
+        "itemid": 44150,
+        "role": "tank",
+        "stats": "+37 Stamina and +20 Dodge Rating",
+		"statsDE": "+37 Ausdauer und +20 Ausweichwertung"
+    },{
+        "id": 3819,
+        "tier": 2,
+        "name": "Arcanum of Blissful Mending",
+        "itemid": 44152,
+        "role": "caster",
+        "stats": "+26 Intellect and +20 Spirit",
+        "statsDE": "+26 Intelligenz und +20 Willenskraft"
     }],
     "1":[],
     "2" : [{
