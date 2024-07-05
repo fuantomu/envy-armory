@@ -636,6 +636,27 @@
         "itemid": 44616,
         "stats": "+6 All Stats",
 		"statsDE": "+6 alle Werte"
+    },{
+        "id": 3756,
+        "tier": 2,
+        "name": "Fur Lining - Attack Power",
+        "itemid": 57683,
+        "stats": "+130 Attack Power",
+		"statsDE": "+130 Angriffskraft"
+    },{
+        "id": 3758,
+        "tier": 2,
+        "name": "Fur Lining - Spell Power",
+        "itemid": 57691,
+        "stats": "+76 Spell Power",
+		"statsDE": "+76 Zaubermacht"
+    },{
+        "id": 3757,
+        "tier": 2,
+        "name": "Fur Lining - Stamina",
+        "itemid": 57690,
+        "stats": "+102 Stamina",
+		"statsDE": "+102 Ausdauer"
     }],
     "9": [{
         "id": 4061,
