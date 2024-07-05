@@ -66,6 +66,32 @@
         "role": "caster",
         "stats": "+26 Intellect and +20 Spirit",
         "statsDE": "+26 Intelligenz und +20 Willenskraft"
+    },{
+        "id": 4247,
+        "tier": 1,
+        "name": "Arcanum of Vicious Strength",
+        "itemid": 68768,
+        "type": "strength",
+        "role": "dps",
+        "stats": "+60 Strength and +35 Resilience rating",
+        "statsDE": "+60 Stärke and +35 Abhärtungswertung"
+    },{
+        "id": 4246,
+        "tier": 1,
+        "name": "Arcanum of Vicious Agility",
+        "itemid": 68769,
+        "type": "agility",
+        "role": "dps",
+        "stats": "+60 Agility and +35 Resilience rating",
+        "statsDE": "+60 Beweglichkeit and +35 Abhärtungswertung"
+    },{
+        "id": 4245,
+        "tier": 1,
+        "name": "Arcanum of Vicious Intellect",
+        "itemid": 68770,
+        "role": "caster",
+        "stats": "+60 Intellect and +35 Resilience rating",
+        "statsDE": "+60 Intelligenz and +35 Abhärtungswertung"
     }],
     "1":[],
     "2" : [{
@@ -170,6 +196,31 @@
         "role": "dps",
         "stats": "+130 Agility and +25 Mastery Rating",
 		"statsDE": "+130 Beweglichkeit und +25 Meisterschaftswertung"
+    },{
+        "id": 4250,
+        "tier": 1,
+        "name": "Greater Inscription of Vicious Agility",
+        "itemid": 68774,
+        "type": "agility",
+        "role": "dps",
+        "stats": "+50 Agility and +25 Resilience Rating",
+		"statsDE": "+50 Beweglichkeit und +25 Abhärtungswertung"
+    },{
+        "id": 4248,
+        "tier": 1,
+        "name": "Greater Inscription of Vicious Intellect",
+        "itemid": 68772,
+        "role": "caster",
+        "stats": "+50 Intellect and +25 Resilience Rating",
+		"statsDE": "+50 Intelligenz und +25 Abhärtungswertung"
+    },{
+        "id": 4249,
+        "tier": 1,
+        "name": "Greater Inscription of Vicious Strength",
+        "itemid": 68773,
+        "role": "caster",
+        "stats": "+50 Strength and +25 Resilience Rating",
+		"statsDE": "+50 Stärke und +25 Abhärtungswertung"
     }],
     "3": [],
     "4": [{
@@ -980,6 +1031,20 @@
         "itemid": 62948,
         "stats": "+81 Spellpower",
 		"statsDE": "+81 Zaubermacht"
+    },{
+        "id": 4217,
+        "tier": 2,
+        "name": "Pyrium Weapon Chain",
+        "itemid": 55057,
+        "stats": "Pyrium Weapon Chain",
+		"statsDE": "Pyriumwaffenkette"
+    },{
+        "id": 3828,
+        "tier": 2,
+        "name": "2H Weapon - Greater Savagery",
+        "itemid": 44630,
+        "stats": "+85 Attack Power",
+		"statsDE": "+85 Angriffskraft"
     }],
     "16": [{
         "id": 4091,
@@ -1055,6 +1120,13 @@
         "itemid": 59619,
         "stats": "+25 Hit Rating and +25 Critical Strike Rating",
 		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung"
+    },{
+        "id": 4217,
+        "tier": 2,
+        "name": "Pyrium Weapon Chain",
+        "itemid": 55057,
+        "stats": "Pyrium Weapon Chain",
+		"statsDE": "Pyriumwaffenkette"
     }],
     "17": [{
         "id": 4267,
