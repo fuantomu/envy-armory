@@ -671,6 +671,13 @@
         "itemid": 60606,
         "stats": "+24 Attack Power",
 		"statsDE": "+24 Angriffskraft"
+    },{
+        "id": 2939,
+        "tier": 2,
+        "name": "Boots - Cat's Swiftness",
+        "itemid": 34007,
+        "stats": "+6 Agility and Minor Movement Speed",
+		"statsDE": "+6 Beweglichkeit und geringe Bewegungstempoerhöhung"
     }],
     "8": [{
         "id": 4065,
