@@ -216,6 +216,13 @@
         "itemid": 52779,
         "stats": "+20 All Stats",
 		"statsDE": "+20 alle Werte"
+    },{
+        "id": 3832,
+        "tier": 2,
+        "name": "Chest - Powerful Stats",
+        "itemid": 60692,
+        "stats": "+10 All Stats",
+		"statsDE": "+10 alle Werte"
     }],
     "5": [{
         "id": 3729,
@@ -425,6 +432,13 @@
         "itemid": 52769,
         "stats": "+50 Hit Rating",
 		"statsDE": "+50 Trefferwertung"
+    },{
+        "id": 3232,
+        "tier": 2,
+        "name": "Boots - Tuskarr's Vitality",
+        "itemid": 47901,
+        "stats": "+15 Stamina and Minor Movement Speed",
+		"statsDE": "+35 Ausdauer und geringe Bewegungstempoerhöhung"
     }],
     "8": [{
         "id": 4065,
@@ -550,6 +564,27 @@
         "role": "tank",
         "stats": "+40 Stamina",
 		"statsDE": "+40 Ausdauer"
+    },{
+        "id": 3845,
+        "tier": 2,
+        "name": "Bracer - Greater Assault",
+        "itemid": 44575,
+        "stats": "+50 Attack Power",
+		"statsDE": "+50 Angriffskraft"
+    },{
+        "id": 2332,
+        "tier": 2,
+        "name": "Bracer - Superior Spellpower",
+        "itemid": 60767,
+        "stats": "+30 Spellpower",
+		"statsDE": "+30 Zaubermacht"
+    },{
+        "id": 2661,
+        "tier": 2,
+        "name": "Bracer - Greater Stats",
+        "itemid": 44616,
+        "stats": "+6 All Stats",
+		"statsDE": "+6 alle Werte"
     }],
     "9": [{
         "id": 4061,
@@ -628,6 +663,15 @@
         "role": "tank",
         "stats": "Quickflip Deflection Plates",
 		"statsDE": "Schnelldrehende Abwehrplatten"
+    },{
+        "id": 2564,
+        "tier": 1,
+        "name": "Gloves - Superior Agility",
+        "itemid": 25080,
+        "type": "agility",
+        "role": "dps",
+        "stats": "+15 Agility",
+		"statsDE": "+15 Beweglichkeit"
     }],
     "10": [{
         "id": 4080,
