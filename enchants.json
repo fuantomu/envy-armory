@@ -49,7 +49,7 @@
         "type": "strength",
         "role": "dps",
         "stats": "+50 Attack Power and +20 Critical Strike Rating",
-        "statsDE": "+50 Angriffskraft and +20 kritische Trefferwertung"
+        "statsDE": "+50 Angriffskraft und +20 kritische Trefferwertung"
     },{
         "id": 3818,
         "tier": 0,
@@ -74,7 +74,7 @@
         "type": "strength",
         "role": "dps",
         "stats": "+60 Strength and +35 Resilience rating",
-        "statsDE": "+60 Stärke and +35 Abhärtungswertung"
+        "statsDE": "+60 Stärke und +35 Abhärtungswertung"
     },{
         "id": 4246,
         "tier": 1,
@@ -83,7 +83,7 @@
         "type": "agility",
         "role": "dps",
         "stats": "+60 Agility and +35 Resilience rating",
-        "statsDE": "+60 Beweglichkeit and +35 Abhärtungswertung"
+        "statsDE": "+60 Beweglichkeit und +35 Abhärtungswertung"
     },{
         "id": 4245,
         "tier": 1,
@@ -91,7 +91,7 @@
         "itemid": 68770,
         "role": "caster",
         "stats": "+60 Intellect and +35 Resilience rating",
-        "statsDE": "+60 Intelligenz and +35 Abhärtungswertung"
+        "statsDE": "+60 Intelligenz und +35 Abhärtungswertung"
     }],
     "1":[],
     "2" : [{
@@ -221,6 +221,38 @@
         "role": "caster",
         "stats": "+50 Strength and +25 Resilience Rating",
 		"statsDE": "+50 Stärke und +25 Abhärtungswertung"
+    },{
+        "id": 3809,
+        "tier": 2,
+        "name": "Greater Inscription of the Crag",
+        "itemid": 50336,
+        "role": "caster",
+        "stats": "+21 Intellect and +16 Spirit",
+        "statsDE": "+21 Intelligenz und +16 Willenskraft"
+    },{
+        "id": 3810,
+        "tier": 2,
+        "name": "Greater Inscription of the Storm",
+        "itemid": 50338,
+        "role": "caster",
+        "stats": "+24 Spell Power and +15 Critical Strike Rating",
+        "statsDE": "+24 Zaubermacht und +15 kritische Trefferwertung"
+    },{
+        "id": 3811,
+        "tier": 2,
+        "name": "Greater Inscription of the Pinnacle",
+        "itemid": 50337,
+        "role": "tank",
+        "stats": "+20 Dodge Rating and +22 Stamina",
+        "statsDE": "+20 Ausweichwertung und +22 Ausdauer"
+    },{
+        "id": 3808,
+        "tier": 2,
+        "name": "Greater Inscription of the Axe",
+        "itemid": 50335,
+        "role": "dps",
+        "stats": "+40 Attack Power and +15 Crit Rating",
+        "statsDE": "+40 Angriffskraft und +15 kritische Trefferwertung"
     }],
     "3": [],
     "4": [{
@@ -403,7 +435,7 @@
         "itemid": 38374,
         "role": "physical",
 		"stats": "+75 Attack Power and +22 Critical Strike Rating",
-		"statsDE": "+75 Angriffskraft and +22 kritische Trefferwertung"
+		"statsDE": "+75 Angriffskraft und +22 kritische Trefferwertung"
     },{
         "id": 3822,
         "tier": 2,
@@ -411,7 +443,7 @@
         "itemid": 38373,
         "role": "tank",
 		"stats": "+55 Stamina and +22 Agility",
-		"statsDE": "+55 Ausdauer and +22 Beweglichkeit"
+		"statsDE": "+55 Ausdauer und +22 Beweglichkeit"
     },{
         "id": 3328,
         "tier": 2,
@@ -419,7 +451,7 @@
         "itemid": 60584,
         "role": "physical",
 		"stats": "+75 Attack Power and +22 Critical Strike Rating",
-		"statsDE": "+75 Angriffskraft and +22 kritische Trefferwertung"
+		"statsDE": "+75 Angriffskraft und +22 kritische Trefferwertung"
     },{
         "id": 3327,
         "tier": 2,
@@ -427,7 +459,39 @@
         "itemid": 60583,
         "role": "tank",
 		"stats": "+55 Stamina and +22 Agility",
-		"statsDE": "+55 Ausdauer and +22 Beweglichkeit"
+		"statsDE": "+55 Ausdauer und +22 Beweglichkeit"
+    },{
+        "id": 3873,
+        "tier": 2,
+        "name": "Master's Spellthread",
+        "itemid": 56034,
+        "role": "caster",
+        "stats": "+50 Spell Power and +30 Stamina",
+		"statsDE": "+50 Zaubermacht und +30 Ausdauer"
+    },{
+        "id": 3872,
+        "tier": 2,
+        "name": "Sanctified Spellthread",
+        "itemid": 56039,
+        "role": "caster",
+        "stats": "+50 Spell Power and +20 Spirit",
+		"statsDE": "+50 Zaubermacht und +20 Willenskraft"
+    },{
+        "id": 3721,
+        "tier": 2,
+        "name": "Sapphire Spellthread",
+        "itemid": 41604,
+        "role": "caster",
+        "stats": "+50 Spell Power and +30 Stamina",
+		"statsDE": "+50 Zaubermacht und +30 Ausdauer"
+    },{
+        "id": 3719,
+        "tier": 2,
+        "name": "Brilliant Spellthread",
+        "itemid": 41602,
+        "role": "caster",
+        "stats": "+50 Spell Power and +20 Spirit",
+		"statsDE": "+50 Zaubermacht und +20 Willenskraft"
     }],
     "7": [{
         "id": 4105,
