@@ -648,6 +648,15 @@
         "role": "tank",
         "stats": "+36 Stamina",
 		"statsDE": "+36 Ausdauer"
+    },{
+        "id": 983,
+        "tier": 2,
+        "name": "Boots - Superior Agility",
+        "itemid": 44589,
+        "type": "agility",
+        "role": "dps",
+        "stats": "+16 Agility",
+		"statsDE": "+16 Beweglichkeit"
     }],
     "8": [{
         "id": 4065,
@@ -837,6 +846,20 @@
         "itemid": 44635,
         "stats": "+23 Spellpower",
 		"statsDE": "+23 Zaubermacht"
+    },{
+        "id": 1593,
+        "tier": 2,
+        "name": "Bracer - Lesser Assault",
+        "itemid": 34002,
+        "stats": "+24 Attack Power",
+		"statsDE": "+24 Angriffskraft"
+    },{
+        "id": 1600,
+        "tier": 2,
+        "name": "Bracer - Assault",
+        "itemid": 60616,
+        "stats": "+38 Attack Power",
+		"statsDE": "+38 Angriffskraft"
     }],
     "9": [{
         "id": 4061,
