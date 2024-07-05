@@ -490,6 +490,13 @@
         "itemid": 47901,
         "stats": "+15 Stamina and Minor Movement Speed",
 		"statsDE": "+35 Ausdauer und geringe Bewegungstempoerhöhung"
+    },{
+        "id": 911,
+        "tier": 2,
+        "name": "Boots - Minor Speed",
+        "itemid": 13890,
+        "stats": "Minor Speed Increase",
+		"statsDE": "Schwache Temposteigerung"
     }],
     "8": [{
         "id": 4065,
