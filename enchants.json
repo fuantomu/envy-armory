@@ -617,7 +617,7 @@
         "name": "Boots - Tuskarr's Vitality",
         "itemid": 47901,
         "stats": "+15 Stamina and Minor Movement Speed",
-		"statsDE": "+35 Ausdauer und geringe Bewegungstempoerhöhung"
+		"statsDE": "+15 Ausdauer und geringe Bewegungstempoerhöhung"
     },{
         "id": 911,
         "tier": 2,
@@ -632,6 +632,22 @@
         "itemid": 60623,
         "stats": "+12 Hit Rating and +12 Critical Strike Rating",
 		"statsDE": "+12 Trefferwertung und +12 kritische Trefferwertung"
+    },{
+        "id": 4121,
+        "tier": 1,
+        "name": "Heavy Savage Armor Kit",
+        "itemid": 56517,
+        "role": "tank",
+        "stats": "+44 Stamina",
+		"statsDE": "+44 Ausdauer"
+    },{
+        "id": 4120,
+        "tier": 2,
+        "name": "Savage Armor Kit",
+        "itemid": 56477,
+        "role": "tank",
+        "stats": "+36 Stamina",
+		"statsDE": "+36 Ausdauer"
     }],
     "8": [{
         "id": 4065,
