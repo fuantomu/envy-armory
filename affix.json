@@ -1,54 +1,55 @@
 {
     "WAIST": {
-        "ids": [65368,65369,65370,65371,65374,65375,65376,65377],
-        "affix": {
-            "-230": {
-                "name": "of the Feverflare",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
-            },
-            "-229": {
-                "name": "of the Fireflash",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-231": {
-                "name": "of the Undertow",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
-            },
-            "-232": {
-                "name": "of the Wavecrest",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
-            },
-            "-233": {
-                "name": "of the Stormblast",
-                "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-234": {
-                "name": "of the Windflurry",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-235": {
-                "name": "of the Windstorm",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
-            },
-            "-236": {
-                "name": "of the Zephyr",
-                "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-222": {
-                "name": "of the Earthfall",
-                "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-220": {
-                "name": "of the Earthshaker",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-223": {
-                "name": "of the Faultline",
-                "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-221": {
-                "name": "of the Landslide",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
+        "P1": {
+            "ids": [65368,65369,65370,65371,65374,65375,65376,65377,63490,63491,63492,63493,63495,63496,63497,63498],
+            "affix": {
+                "-230": {
+                    "name": "of the Feverflare",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
+                },
+                "-229": {
+                    "name": "of the Fireflash",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-231": {
+                    "name": "of the Undertow",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
+                },
+                "-232": {
+                    "name": "of the Wavecrest",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
+                },
+                "-233": {
+                    "name": "of the Stormblast",
+                    "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-234": {
+                    "name": "of the Windflurry",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-235": {
+                    "name": "of the Windstorm",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
+                },
+                "-236": {
+                    "name": "of the Zephyr",
+                    "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-222": {
+                    "name": "of the Earthfall",
+                    "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-220": {
+                    "name": "of the Earthshaker",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-223": {
+                    "name": "of the Faultline",
+                    "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-221": {
+                    "name": "of the Landslide",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
             },
             "-224": {
                 "name": "of the Bedrock",
@@ -63,100 +64,104 @@
                 "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
             }
         }
+        }
     },
     "WEAPON": {
-        "ids": [68130,68131,68132],
-        "affix": {
-            "-122": {
-                "name": "of the Earthfall",
-                "stats": ["STRENGTH","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-120": {
-                "name": "of the Earthshaker",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-118": {
-                "name": "of the Faultline",
-                "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-138": {
-                "name": "of the Feverflare",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-130": {
-                "name": "of the Fireflash",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-114": {
-                "name": "of the Flameblaze",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
-            },
-            "-121": {
-                "name": "of the Landslide",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
-            },
-            "-133": {
-                "name": "of the Stormblast",
-                "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-131": {
-                "name": "of the Undertow",
-                "stats": ["INTELLECT","STAMINA","SPIRIT","HASTE_RATING"]
-            },
-            "-132": {
-                "name": "of the Wavecrest",
-                "stats": ["INTELLECT","STAMINA","SPIRIT","MASTERY_RATING"]
-            },
-            "-129": {
-                "name": "of the Wildfire",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-135": {
-                "name": "of the Windflurry",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-137": {
-                "name": "of the Windstorm",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
-            },
-            "-136": {
-                "name": "of the Zephyr",
-                "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
+        "P1": {
+            "ids": [68130,68131,68132,68127,68128,68129],
+            "affix": {
+                "-122": {
+                    "name": "of the Earthfall",
+                    "stats": ["STRENGTH","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-120": {
+                    "name": "of the Earthshaker",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-118": {
+                    "name": "of the Faultline",
+                    "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-138": {
+                    "name": "of the Feverflare",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-130": {
+                    "name": "of the Fireflash",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-114": {
+                    "name": "of the Flameblaze",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
+                },
+                "-121": {
+                    "name": "of the Landslide",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
+                },
+                "-133": {
+                    "name": "of the Stormblast",
+                    "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-131": {
+                    "name": "of the Undertow",
+                    "stats": ["INTELLECT","STAMINA","SPIRIT","HASTE_RATING"]
+                },
+                "-132": {
+                    "name": "of the Wavecrest",
+                    "stats": ["INTELLECT","STAMINA","SPIRIT","MASTERY_RATING"]
+                },
+                "-129": {
+                    "name": "of the Wildfire",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-135": {
+                    "name": "of the Windflurry",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-137": {
+                    "name": "of the Windstorm",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
+                },
+                "-136": {
+                    "name": "of the Zephyr",
+                    "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                }
             }
         }
     },
     "LEGS": {
-        "ids": [65378,65379,65380,65381,65383,65384,65385,65386],
-        "affix": {
-            "-192": {
-                "name": "of the Feverflare",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
-            },
-            "-191": {
-                "name": "of the Fireflash",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-193": {
-                "name": "of the Undertow",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
-            },
-            "-194": {
-                "name": "of the Wavecrest",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
-            },
-            "-199": {
-                "name": "of the Stormblast",
-                "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-200": {
-                "name": "of the Windflurry",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-201": {
-                "name": "of the Windstorm",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
-            },
-            "-202": {
+        "P1":{
+            "ids": [65378,65379,65380,65381,65383,65384,65385,65386,63500,63501,63502,63503,63504,63505,63506,63507],
+            "affix": {
+                "-192": {
+                    "name": "of the Feverflare",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
+                },
+                "-191": {
+                    "name": "of the Fireflash",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-193": {
+                    "name": "of the Undertow",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
+                },
+                "-194": {
+                    "name": "of the Wavecrest",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
+                },
+                "-199": {
+                    "name": "of the Stormblast",
+                    "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-200": {
+                    "name": "of the Windflurry",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-201": {
+                    "name": "of the Windstorm",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
+                },
+                "-202": {
                 "name": "of the Zephyr",
                 "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
             },
@@ -189,223 +194,230 @@
                 "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
             }
         }
+        }
     },
     "CLOAK": {
-        "ids": [69878,69879,69881,69884],
-        "affix": {
-            "-138": {
-                "name": "of the Feverflare",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
-            },
-            "-130": {
-                "name": "of the Fireflash",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-114": {
-                "name": "of the Flameblaze",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
-            },
-            "-131": {
-                "name": "of the Undertow",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
-            },
-            "-132": {
-                "name": "of the Wavecrest",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
-            },
-            "-129": {
-                "name": "of the Wildfire",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-133": {
-                "name": "of the Stormblast",
-                "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-135": {
-                "name": "of the Windflurry",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-137": {
-                "name": "of the Windstorm",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
-            },
-            "-136": {
-                "name": "of the Zephyr",
-                "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-122": {
-                "name": "of the Earthfall",
-                "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-120": {
-                "name": "of the Earthshaker",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-118": {
-                "name": "of the Faultline",
-                "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-121": {
-                "name": "of the Landslide",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
-            },
-            "-125": {
-                "name": "of the Bedrock",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
-            },
-            "-127": {
-                "name": "of the Bouldercrag",
-                "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
-            },
-            "-128": {
-                "name": "of the Rockslab",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+        "P1": {
+            "ids": [69878,69879,69881,69884,69831,69833,69834,69835],
+            "affix": {
+                "-138": {
+                    "name": "of the Feverflare",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
+                },
+                "-130": {
+                    "name": "of the Fireflash",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-114": {
+                    "name": "of the Flameblaze",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
+                },
+                "-131": {
+                    "name": "of the Undertow",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
+                },
+                "-132": {
+                    "name": "of the Wavecrest",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
+                },
+                "-129": {
+                    "name": "of the Wildfire",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-133": {
+                    "name": "of the Stormblast",
+                    "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-135": {
+                    "name": "of the Windflurry",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-137": {
+                    "name": "of the Windstorm",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
+                },
+                "-136": {
+                    "name": "of the Zephyr",
+                    "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-122": {
+                    "name": "of the Earthfall",
+                    "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-120": {
+                    "name": "of the Earthshaker",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-118": {
+                    "name": "of the Faultline",
+                    "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-121": {
+                    "name": "of the Landslide",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
+                },
+                "-125": {
+                    "name": "of the Bedrock",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
+                },
+                "-127": {
+                    "name": "of the Bouldercrag",
+                    "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
+                },
+                "-128": {
+                    "name": "of the Rockslab",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+                }
             }
         }
     },
     "FINGER":{
-        "ids": [65367,65372,65373,65382],
-        "affix": {
-            "-138": {
-                "name": "of the Feverflare",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
-            },
-            "-130": {
-                "name": "of the Fireflash",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-114": {
-                "name": "of the Flameblaze",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
-            },
-            "-131": {
-                "name": "of the Undertow",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
-            },
-            "-132": {
-                "name": "of the Wavecrest",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
-            },
-            "-129": {
-                "name": "of the Wildfire",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-133": {
-                "name": "of the Stormblast",
-                "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-135": {
-                "name": "of the Windflurry",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-137": {
-                "name": "of the Windstorm",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
-            },
-            "-136": {
-                "name": "of the Zephyr",
-                "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-122": {
-                "name": "of the Earthfall",
-                "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-120": {
-                "name": "of the Earthshaker",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-118": {
-                "name": "of the Faultline",
-                "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-121": {
-                "name": "of the Landslide",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
-            },
-            "-125": {
-                "name": "of the Bedrock",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
-            },
-            "-127": {
-                "name": "of the Bouldercrag",
-                "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
-            },
-            "-128": {
-                "name": "of the Rockslab",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+        "P1": {
+            "ids": [65367,65372,65373,65382,63488,63489,63494,63499],
+            "affix": {
+                "-138": {
+                    "name": "of the Feverflare",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
+                },
+                "-130": {
+                    "name": "of the Fireflash",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-114": {
+                    "name": "of the Flameblaze",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
+                },
+                "-131": {
+                    "name": "of the Undertow",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
+                },
+                "-132": {
+                    "name": "of the Wavecrest",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
+                },
+                "-129": {
+                    "name": "of the Wildfire",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-133": {
+                    "name": "of the Stormblast",
+                    "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-135": {
+                    "name": "of the Windflurry",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-137": {
+                    "name": "of the Windstorm",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
+                },
+                "-136": {
+                    "name": "of the Zephyr",
+                    "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-122": {
+                    "name": "of the Earthfall",
+                    "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-120": {
+                    "name": "of the Earthshaker",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-118": {
+                    "name": "of the Faultline",
+                    "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-121": {
+                    "name": "of the Landslide",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
+                },
+                "-125": {
+                    "name": "of the Bedrock",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
+                },
+                "-127": {
+                    "name": "of the Bouldercrag",
+                    "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
+                },
+                "-128": {
+                    "name": "of the Rockslab",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+                }
             }
         }
     },
     "NECK":{
-        "ids": [69885,69883,69882,69880],
-        "affix": {
-            "-138": {
-                "name": "of the Feverflare",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
-            },
-            "-130": {
-                "name": "of the Fireflash",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
-            },
-            "-114": {
-                "name": "of the Flameblaze",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
-            },
-            "-131": {
-                "name": "of the Undertow",
-                "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
-            },
-            "-132": {
-                "name": "of the Wavecrest",
-                "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
-            },
-            "-129": {
-                "name": "of the Wildfire",
-                "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-133": {
-                "name": "of the Stormblast",
-                "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-135": {
-                "name": "of the Windflurry",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-137": {
-                "name": "of the Windstorm",
-                "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
-            },
-            "-136": {
-                "name": "of the Zephyr",
-                "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-122": {
-                "name": "of the Earthfall",
-                "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
-            },
-            "-120": {
-                "name": "of the Earthshaker",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
-            },
-            "-118": {
-                "name": "of the Faultline",
-                "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
-            },
-            "-121": {
-                "name": "of the Landslide",
-                "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
-            },
-            "-125": {
-                "name": "of the Bedrock",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
-            },
-            "-127": {
-                "name": "of the Bouldercrag",
-                "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
-            },
-            "-128": {
-                "name": "of the Rockslab",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+        "P1":{
+            "ids": [69885,69883,69882,69880,69827,69828,69829,69830],
+            "affix": {
+                "-138": {
+                    "name": "of the Feverflare",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","HASTE_RATING"]
+                },
+                "-130": {
+                    "name": "of the Fireflash",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","CRIT_RATING"]
+                },
+                "-114": {
+                    "name": "of the Flameblaze",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","MASTERY_RATING"]
+                },
+                "-131": {
+                    "name": "of the Undertow",
+                    "stats": ["INTELLECT","STAMINA","HASTE_RATING","SPIRIT"]
+                },
+                "-132": {
+                    "name": "of the Wavecrest",
+                    "stats": ["INTELLECT","STAMINA","MASTERY_RATING","SPIRIT"]
+                },
+                "-129": {
+                    "name": "of the Wildfire",
+                    "stats": ["INTELLECT","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-133": {
+                    "name": "of the Stormblast",
+                    "stats": ["AGILITY","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-135": {
+                    "name": "of the Windflurry",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-137": {
+                    "name": "of the Windstorm",
+                    "stats": ["AGILITY","STAMINA","CRIT_RATING","MASTERY_RATING"]
+                },
+                "-136": {
+                    "name": "of the Zephyr",
+                    "stats": ["AGILITY","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-122": {
+                    "name": "of the Earthfall",
+                    "stats": ["STRENGTH","STAMINA","CRIT_RATING","HASTE_RATING"]
+                },
+                "-120": {
+                    "name": "of the Earthshaker",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","CRIT_RATING"]
+                },
+                "-118": {
+                    "name": "of the Faultline",
+                    "stats": ["STRENGTH","STAMINA","HASTE_RATING","MASTERY_RATING"]
+                },
+                "-121": {
+                    "name": "of the Landslide",
+                    "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
+                },
+                "-125": {
+                    "name": "of the Bedrock",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
+                },
+                "-127": {
+                    "name": "of the Bouldercrag",
+                    "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
+                },
+                "-128": {
+                    "name": "of the Rockslab",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+                }
             }
         }
     }

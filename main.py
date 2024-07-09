@@ -4,8 +4,8 @@ import json
 
 
 # Battle.net API access from https://develop.battle.net/access/clients
-client_id = ''
-client_secret = ''
+client_id = '3d105e7ab0fe47b084860582d91c07e8'
+client_secret = 'HtVyO6UoKjI2BYcdv6loQ61fjjrN3fez'
 baseUrl = f'https://eu.api.blizzard.com/profile/wow/character/everlook/CHARACTERNAME/equipment?namespace=profile-classic-eu&locale=en_DE&access_token='
 wowheadBaseUrl = 'https//www.wowhead.com/cata/de/item='
 
@@ -101,18 +101,22 @@ def get_sorted_equipment(characterName, token):
                     
                     if "WEAPON" in item["inventory_type"]["type"]:
                         item["inventory_type"]["type"] = "WEAPON"
-                        
-                    if affixes.get(item["inventory_type"]["type"]):
-                        if item["item"]["id"] in affixes[item["inventory_type"]["type"]]["ids"]:
-                            filtered = [entry for entry in item["enchantments"] if entry["enchantment_slot"]["id"] in [8,9,10,11]]
                     
-                            if len(filtered) > 0:
-                                item["link"] += "&rand="
-                            affixNames = [affixStats[entry.get("enchantment_id")] for entry in filtered]
-                            for affix in affixes[item["inventory_type"]["type"]]["affix"]:
-                                if all([stat in affixes[item["inventory_type"]["type"]]["affix"][affix]["stats"] for stat in affixNames]):
-                                    item["link"] += str(affix)
-                                    break
+                    found_affixes = None
+                    for phase in affixes.get(item["inventory_type"]["type"], []):
+                        if item["item"]["id"] in affixes[item["inventory_type"]["type"]][phase]["ids"]:
+                            found_affixes = affixes[item["inventory_type"]["type"]][phase]["affix"]
+                            break
+                    
+                    if found_affixes:    
+                        filtered = [entry for entry in item["enchantments"] if entry["enchantment_slot"]["id"] in [8,9,10,11]]
+                        if len(filtered) > 0:
+                            item["link"] += "&rand="
+                        affixNames = [affixStats[entry.get("enchantment_id")] for entry in filtered]
+                        for affix in found_affixes:
+                            if all([stat in found_affixes[affix]["stats"] for stat in affixNames]):
+                                item["link"] += str(affix)
+                                break
             
             if item.get("set"):
                 item["link"] += "&pcs="
