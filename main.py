@@ -139,7 +139,7 @@ def get_token():
 
 if __name__ == "__main__":
     if len(sys.argv) > 2:
-        result = get_sorted_equipment(sys.argv[1])
+        result = get_sorted_equipment(sys.argv[1], sys.argv[2])
     else:
         result = get_sorted_equipment(sys.argv[1], get_token())
     
