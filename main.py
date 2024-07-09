@@ -4,8 +4,8 @@ import json
 
 
 # Battle.net API access from https://develop.battle.net/access/clients
-client_id = '3d105e7ab0fe47b084860582d91c07e8'
-client_secret = 'HtVyO6UoKjI2BYcdv6loQ61fjjrN3fez'
+client_id = ''
+client_secret = ''
 baseUrl = f'https://eu.api.blizzard.com/profile/wow/character/everlook/CHARACTERNAME/equipment?namespace=profile-classic-eu&locale=en_DE&access_token='
 wowheadBaseUrl = 'https//www.wowhead.com/cata/de/item='
 

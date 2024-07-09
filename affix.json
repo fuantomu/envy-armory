@@ -50,20 +50,20 @@
                 "-221": {
                     "name": "of the Landslide",
                     "stats": ["STRENGTH","STAMINA","HIT_RATING","EXPERTISE_RATING"]
-            },
-            "-224": {
-                "name": "of the Bedrock",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
-            },
-            "-225": {
-                "name": "of the Bouldercrag",
-                "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
-            },
-            "-226": {
-                "name": "of the Rockslab",
-                "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+                },
+                "-224": {
+                    "name": "of the Bedrock",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","PARRY_RATING"]
+                },
+                "-225": {
+                    "name": "of the Bouldercrag",
+                    "stats": ["STRENGTH","STAMINA","DODGE_RATING","PARRY_RATING"]
+                },
+                "-226": {
+                    "name": "of the Rockslab",
+                    "stats": ["STRENGTH","STAMINA","MASTERY_RATING","DODGE_RATING"]
+                }
             }
-        }
         }
     },
     "WEAPON": {
