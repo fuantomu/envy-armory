@@ -477,6 +477,14 @@
 		"stats": "+145 Stamina and +55 Agility",
 		"statsDE": "+145 Ausdauer und +55 Beweglichkeit"
     },{
+        "id": 4438,
+        "tier": 0,
+        "name": "Drakehide Leg Reinforcements",
+        "itemid": 101600,
+        "role": "tank",
+        "stats": "+145 Stamina and +55 Dodge Rating",
+		"statsDE": "+145 Ausdauer und +55 Ausweichwertung"
+    },{
         "id": 3823,
         "tier": 2,
         "name": "Icescale Leg Armor",
