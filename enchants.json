@@ -614,7 +614,7 @@
         "statsDE": "+50 Meisterschaftswertung"
     },{
         "id": 4092,
-        "tier": 1,
+        "tier": 0,
         "name": "Boots - Precision",
         "itemid": 52769,
         "stats": "+50 Hit Rating",
