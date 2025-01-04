@@ -735,7 +735,6 @@
         "name": "Bracer - Major Strength",
         "itemid": 68785,
         "type": "strength",
-        "role": "tank",
         "stats": "+50 Strength",
 		"statsDE": "+50 Stärke"
     },{
