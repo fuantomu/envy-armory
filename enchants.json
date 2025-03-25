@@ -6,7 +6,8 @@
         "itemid": 62366,
         "role": "tank",
         "stats": "+90 Stamina and +35 Dodge Rating",
-		"statsDE": "+90 Ausdauer und +35 Ausweichwertung"
+		"statsDE": "+90 Ausdauer und +35 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 4209,
         "tier": 0,
@@ -14,7 +15,8 @@
         "itemid": 62369,
         "type": "agility",
         "stats": "+60 Agility and +35 Haste Rating",
-        "statsDE": "+60 Beweglichkeit und +35 Tempowertung"
+        "statsDE": "+60 Beweglichkeit und +35 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4208,
         "tier": 0,
@@ -22,7 +24,8 @@
         "itemid": 62422,
         "type": "strength",
         "stats": "+60 Strength and +35 Mastery Rating",
-        "statsDE": "+60 Stärke und +35 Meisterschaftswertung"
+        "statsDE": "+60 Stärke und +35 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4207,
         "tier": 0,
@@ -30,7 +33,8 @@
         "itemid": 62367,
         "role": "caster",
         "stats": "+60 Intellect and +35 Critical Strike Rating",
-        "statsDE": "+60 Intelligenz und +35 kritische Trefferwertung"
+        "statsDE": "+60 Intelligenz und +35 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3820,
         "tier": 2,
@@ -38,7 +42,8 @@
         "itemid": 44159,
         "role": "caster",
         "stats": "+26 Intellect and +20 Critical strike rating",
-        "statsDE": "+26 Intelligenz und +20 kritische Trefferwertung"
+        "statsDE": "+26 Intelligenz und +20 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3817,
         "tier": 2,
@@ -47,7 +52,8 @@
         "type": "strength",
         "role": "dps",
         "stats": "+50 Attack Power and +20 Critical Strike Rating",
-        "statsDE": "+50 Angriffskraft und +20 kritische Trefferwertung"
+        "statsDE": "+50 Angriffskraft und +20 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3818,
         "tier": 0,
@@ -55,7 +61,8 @@
         "itemid": 44150,
         "role": "tank",
         "stats": "+37 Stamina and +20 Dodge Rating",
-		"statsDE": "+37 Ausdauer und +20 Ausweichwertung"
+		"statsDE": "+37 Ausdauer und +20 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 3819,
         "tier": 2,
@@ -63,7 +70,8 @@
         "itemid": 44152,
         "role": "caster",
         "stats": "+26 Intellect and +20 Spirit",
-        "statsDE": "+26 Intelligenz und +20 Willenskraft"
+        "statsDE": "+26 Intelligenz und +20 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4247,
         "tier": 1,
@@ -72,7 +80,8 @@
         "type": "strength",
         "role": "dps",
         "stats": "+60 Strength and +35 Resilience rating",
-        "statsDE": "+60 Stärke und +35 Abhärtungswertung"
+        "statsDE": "+60 Stärke und +35 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 4246,
         "tier": 1,
@@ -81,7 +90,8 @@
         "type": "agility",
         "role": "dps",
         "stats": "+60 Agility and +35 Resilience rating",
-        "statsDE": "+60 Beweglichkeit und +35 Abhärtungswertung"
+        "statsDE": "+60 Beweglichkeit und +35 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 4245,
         "tier": 1,
@@ -89,7 +99,8 @@
         "itemid": 68770,
         "role": "caster",
         "stats": "+60 Intellect and +35 Resilience rating",
-        "statsDE": "+60 Intelligenz und +35 Abhärtungswertung"
+        "statsDE": "+60 Intelligenz und +35 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 4121,
         "tier": 2,
@@ -97,7 +108,8 @@
         "itemid": 56517,
         "role": "tank",
         "stats": "+44 Stamina",
-		"statsDE": "+44 Ausdauer"
+		"statsDE": "+44 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4120,
         "tier": 2,
@@ -105,7 +117,8 @@
         "itemid": 56477,
         "role": "tank",
         "stats": "+36 Stamina",
-		"statsDE": "+36 Ausdauer"
+		"statsDE": "+36 Ausdauer",
+        "version": "cataclysm"
     }],
     "1":[],
     "2" : [{
@@ -115,7 +128,8 @@
         "itemid": 62342,
         "role": "caster",
         "stats": "+30 Intellect and +20 Haste Rating",
-        "statsDE": "+30 Intelligenz und +20 Tempowertung"
+        "statsDE": "+30 Intelligenz und +20 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4201,
         "tier": 1,
@@ -124,7 +138,8 @@
         "type": "strength",
         "role": "dps",
         "stats": "+30 Strength and +20 Critical Strike Rating",
-        "statsDE": "+30 Stärke und +20 kritische Trefferwertung"
+        "statsDE": "+30 Stärke und +20 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4205,
         "tier": 0,
@@ -133,7 +148,8 @@
         "type": "agility",
         "role": "dps",
         "stats": "+30 Agility and +20 Mastery Rating",
-        "statsDE": "+30 Beweglichkeit und +20 Meisterschaftswertung"
+        "statsDE": "+30 Beweglichkeit und +20 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4197,
         "tier": 0,
@@ -141,7 +157,8 @@
         "itemid": 62321,
         "role": "tank",
         "stats": "+45 Stamina and +20 Dodge Rating",
-        "statsDE": "+45 Ausdauer und +20 Ausweichwertung"
+        "statsDE": "+45 Ausdauer und +20 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 4200,
         "tier": 0,
@@ -149,7 +166,8 @@
         "itemid": 62343,
         "role": "caster",
         "stats": "+50 Intellect and +25 Haste Rating",
-        "statsDE": "+50 Intelligenz und +25 Tempowertung"
+        "statsDE": "+50 Intelligenz und +25 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4202,
         "tier": 0,
@@ -157,7 +175,8 @@
         "itemid": 62345,
         "type": "strength",
         "stats": "+50 Strength and +25 Critical Strike Rating",
-        "statsDE": "+50 Stärke und +25 kritische Trefferwertung"
+        "statsDE": "+50 Stärke und +25 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4204,
         "tier": 0,
@@ -165,7 +184,8 @@
         "itemid": 62346,
         "type": "agility",
         "stats": "+50 Agility and +25 Mastery rating",
-        "statsDE": "+50 Beweglichkeit und +25 Meisterschaftswertung"
+        "statsDE": "+50 Beweglichkeit und +25 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4198,
         "tier": 0,
@@ -173,7 +193,8 @@
         "itemid": 62333,
         "role": "tank",
         "stats": "+75 Stamina and +25 Dodge Rating",
-        "statsDE": "+75 Ausdauer und +25 Ausweichwertung"
+        "statsDE": "+75 Ausdauer und +25 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 4196,
         "tier": 0,
@@ -181,7 +202,8 @@
         "itemid": 86403,
         "role": "caster",
         "stats": "+130 Intellect and +25 Haste Rating",
-		"statsDE": "+130 Intelligenz und +25 Tempowertung"
+		"statsDE": "+130 Intelligenz und +25 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4195,
         "tier": 0,
@@ -189,7 +211,8 @@
         "itemid": 86402,
         "role": "tank",
         "stats": "+195 Stamina and +25 Dodge Rating",
-		"statsDE": "+195 Ausdauer und +25 Ausweichwertung"
+		"statsDE": "+195 Ausdauer und +25 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 4194,
         "tier": 0,
@@ -197,7 +220,8 @@
         "itemid": 86401,
         "type": "strength",
         "stats": "+130 Strength and +25 Critical Strike Rating",
-		"statsDE": "+130 Stärke und +25 kritische Trefferwertung"
+		"statsDE": "+130 Stärke und +25 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4193,
         "tier": 0,
@@ -205,7 +229,8 @@
         "itemid": 86375,
         "type": "agility",
         "stats": "+130 Agility and +25 Mastery Rating",
-		"statsDE": "+130 Beweglichkeit und +25 Meisterschaftswertung"
+		"statsDE": "+130 Beweglichkeit und +25 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4250,
         "tier": 1,
@@ -214,7 +239,8 @@
         "type": "agility",
         "role": "dps",
         "stats": "+50 Agility and +25 Resilience Rating",
-		"statsDE": "+50 Beweglichkeit und +25 Abhärtungswertung"
+		"statsDE": "+50 Beweglichkeit und +25 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 4248,
         "tier": 1,
@@ -222,7 +248,8 @@
         "itemid": 68772,
         "role": "caster",
         "stats": "+50 Intellect and +25 Resilience Rating",
-		"statsDE": "+50 Intelligenz und +25 Abhärtungswertung"
+		"statsDE": "+50 Intelligenz und +25 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 4249,
         "tier": 1,
@@ -230,7 +257,8 @@
         "itemid": 68773,
         "role": "caster",
         "stats": "+50 Strength and +25 Resilience Rating",
-		"statsDE": "+50 Stärke und +25 Abhärtungswertung"
+		"statsDE": "+50 Stärke und +25 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 3809,
         "tier": 2,
@@ -238,7 +266,8 @@
         "itemid": 50336,
         "role": "caster",
         "stats": "+21 Intellect and +16 Spirit",
-        "statsDE": "+21 Intelligenz und +16 Willenskraft"
+        "statsDE": "+21 Intelligenz und +16 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 3810,
         "tier": 2,
@@ -246,7 +275,8 @@
         "itemid": 50338,
         "role": "caster",
         "stats": "+24 Spell Power and +15 Critical Strike Rating",
-        "statsDE": "+24 Zaubermacht und +15 kritische Trefferwertung"
+        "statsDE": "+24 Zaubermacht und +15 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3811,
         "tier": 2,
@@ -254,7 +284,8 @@
         "itemid": 50337,
         "role": "tank",
         "stats": "+20 Dodge Rating and +22 Stamina",
-        "statsDE": "+20 Ausweichwertung und +22 Ausdauer"
+        "statsDE": "+20 Ausweichwertung und +22 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 3808,
         "tier": 2,
@@ -262,7 +293,8 @@
         "itemid": 50335,
         "role": "dps",
         "stats": "+40 Attack Power and +15 Crit Rating",
-        "statsDE": "+40 Angriffskraft und +15 kritische Trefferwertung"
+        "statsDE": "+40 Angriffskraft und +15 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4121,
         "tier": 2,
@@ -270,7 +302,8 @@
         "itemid": 56517,
         "role": "tank",
         "stats": "+44 Stamina",
-		"statsDE": "+44 Ausdauer"
+		"statsDE": "+44 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4120,
         "tier": 2,
@@ -278,7 +311,8 @@
         "itemid": 56477,
         "role": "tank",
         "stats": "+36 Stamina",
-		"statsDE": "+36 Ausdauer"
+		"statsDE": "+36 Ausdauer",
+        "version": "cataclysm"
     }],
     "3": [],
     "4": [{
@@ -287,7 +321,8 @@
         "name": "Chest - Mighty Stats",
         "itemid": 52744,
         "stats": "+15 All Stats",
-		"statsDE": "+15 alle Werte"
+		"statsDE": "+15 alle Werte",
+        "version": "cataclysm"
     },{
         "id": 4070,
         "tier": 1,
@@ -295,21 +330,24 @@
         "itemid": 52751,
         "role": "tank",
         "stats": "+55 Stamina",
-		"statsDE": "+55 Ausdauer"
+		"statsDE": "+55 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4077,
         "tier": 2,
         "name": "Chest - Mighty Resilience",
         "itemid": 52758,
         "stats": "+40 Resilience Rating",
-		"statsDE": "+40 Abhärtungswertung"
+		"statsDE": "+40 Abhärtungswertung",
+        "version": "cataclysm"
     },{
         "id": 4088,
         "tier": 2,
         "name": "Chest - Exceptional Spirit",
         "itemid": 52765,
         "stats": "+40 Spirit",
-		"statsDE": "+40 Willenskraft"
+		"statsDE": "+40 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4103,
         "tier": 0,
@@ -317,21 +355,24 @@
         "itemid": 52780,
         "role": "tank",
         "stats": "+75 Stamina",
-		"statsDE": "+75 Ausdauer"
+		"statsDE": "+75 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4102,
         "tier": 0,
         "name": "Chest - Peerless Stats",
         "itemid": 52779,
         "stats": "+20 All Stats",
-		"statsDE": "+20 alle Werte"
+		"statsDE": "+20 alle Werte",
+        "version": "cataclysm"
     },{
         "id": 3832,
         "tier": 2,
         "name": "Chest - Powerful Stats",
         "itemid": 60692,
         "stats": "+10 All Stats",
-		"statsDE": "+10 alle Werte"
+		"statsDE": "+10 alle Werte",
+        "version": "cataclysm"
     },{
         "id": 4121,
         "tier": 2,
@@ -339,7 +380,8 @@
         "itemid": 56517,
         "role": "tank",
         "stats": "+44 Stamina",
-		"statsDE": "+44 Ausdauer"
+		"statsDE": "+44 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4120,
         "tier": 2,
@@ -347,7 +389,8 @@
         "itemid": 56477,
         "role": "tank",
         "stats": "+36 Stamina",
-		"statsDE": "+36 Ausdauer"
+		"statsDE": "+36 Ausdauer",
+        "version": "cataclysm"
     }],
     "5": [{
         "id": 3729,
@@ -355,14 +398,24 @@
         "name": "Ebonsteel Belt Buckle",
         "itemid": 55054,
         "stats": "+ Socket",
-		"statsDE": "+ Sockel"
+		"statsDE": "+ Sockel",
+        "version": "cataclysm"
     },{
         "id": 4223,
         "tier": 0,
         "name": "Nitro Boosts",
         "itemid": 55016,
         "stats": "Nitro Boosts",
-		"statsDE": "Nitrobooster"
+		"statsDE": "Nitrobooster",
+        "version": "cataclysm"
+    },{
+        "id": 5002,
+        "tier": 0,
+        "name": "Living Steel Belt Buckle",
+        "itemid": 90046,
+        "stats": "+ Socket",
+		"statsDE": "+ Sockel",
+        "version": "mop"
     }],
     "6": [{
         "id": 4111,
@@ -371,7 +424,8 @@
         "itemid": 54447,
         "role": "caster",
         "stats": "+55 Intellect and +65 Stamina",
-		"statsDE": "+55 Intelligenz und +65 Ausdauer"
+		"statsDE": "+55 Intelligenz und +65 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4109,
         "tier": 1,
@@ -379,7 +433,8 @@
         "itemid": 54449,
         "role": "caster",
         "stats": "+55 Intellect and +45 Spirit",
-		"statsDE": "+55 Intelligenz und +45 Willenskraft"
+		"statsDE": "+55 Intelligenz und +45 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4112,
         "tier": 0,
@@ -387,7 +442,8 @@
         "itemid": 54448,
         "role": "caster",
         "stats": "+95 Intellect and +80 Stamina",
-		"statsDE": "+95 Intelligenz und +80 Ausdauer"
+		"statsDE": "+95 Intelligenz und +80 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4110,
         "tier": 0,
@@ -395,7 +451,8 @@
         "itemid": 54450,
         "role": "caster",
         "stats": "+95 Intellect and +55 Spirit",
-		"statsDE": "+95 Intelligenz und +55 Willenskraft"
+		"statsDE": "+95 Intelligenz und +55 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4122,
         "tier": 1,
@@ -403,7 +460,8 @@
         "itemid": 56502,
         "role": "dps",
         "stats": "+110 Attack Power und +45 Critical Strike Rating",
-		"statsDE": "+110 Angriffskraft und +45 kritische Trefferwertung"
+		"statsDE": "+110 Angriffskraft und +45 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4124,
         "tier": 1,
@@ -412,7 +470,8 @@
         "type": "agility",
         "role": "tank",
         "stats": "+85 Stamina and +45 Agility",
-		"statsDE": "+85 Ausdauer und +45 Beweglichkeit"
+		"statsDE": "+85 Ausdauer und +45 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4127,
         "tier": 0,
@@ -421,7 +480,8 @@
         "type": "agility",
         "role": "tank",
         "stats": "+145 Stamina and +55 Agility",
-		"statsDE": "+145 Ausdauer und +55 Beweglichkeit"
+		"statsDE": "+145 Ausdauer und +55 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4126,
         "tier": 0,
@@ -429,7 +489,8 @@
         "itemid": 56550,
         "role": "dps",
         "stats": "+190 Attack Power and +55 Critical Strike Rating",
-		"statsDE": "+190 Angriffskraft und +55 kritische Trefferwertung"
+		"statsDE": "+190 Angriffskraft und +55 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4270,
         "tier": 0,
@@ -437,7 +498,8 @@
         "itemid": 71720,
         "role": "tank",
         "stats": "+145 Stamina and +55 Dodge Rating",
-		"statsDE": "+145 Ausdauer und +55 Ausweichwertung"
+		"statsDE": "+145 Ausdauer und +55 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 4113,
         "tier": 0,
@@ -445,7 +507,8 @@
         "itemid": 75154,
         "role": "caster",
         "stats": "+95 Intellect and +80 Stamina",
-		"statsDE": "+95 Intelligenz und +80 Ausdauer"
+		"statsDE": "+95 Intelligenz und +80 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4114,
         "tier": 0,
@@ -453,7 +516,8 @@
         "itemid": 75155,
         "role": "caster",
         "stats": "+95 Intellect and +55 Spirit",
-		"statsDE": "+95 Intelligenz und +55 Willenskraft"
+		"statsDE": "+95 Intelligenz und +55 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4440,
         "tier": 0,
@@ -461,7 +525,8 @@
         "itemid": 85067,
         "role": "dps",
 		"stats": "+190 Attack Power and +55 Critical Strike Rating",
-		"statsDE": "+190 Angriffskraft und +55 kritische Trefferwertung"
+		"statsDE": "+190 Angriffskraft und +55 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4439,
         "tier": 0,
@@ -469,7 +534,8 @@
         "itemid": 85068,
         "role": "tank",
 		"stats": "+145 Stamina and +55 Agility",
-		"statsDE": "+145 Ausdauer und +55 Beweglichkeit"
+		"statsDE": "+145 Ausdauer und +55 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4438,
         "tier": 0,
@@ -477,7 +543,8 @@
         "itemid": 101600,
         "role": "tank",
         "stats": "+145 Stamina and +55 Dodge Rating",
-		"statsDE": "+145 Ausdauer und +55 Ausweichwertung"
+		"statsDE": "+145 Ausdauer und +55 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 3823,
         "tier": 2,
@@ -485,7 +552,8 @@
         "itemid": 38374,
         "role": "physical",
 		"stats": "+75 Attack Power and +22 Critical Strike Rating",
-		"statsDE": "+75 Angriffskraft und +22 kritische Trefferwertung"
+		"statsDE": "+75 Angriffskraft und +22 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3822,
         "tier": 2,
@@ -493,7 +561,8 @@
         "itemid": 38373,
         "role": "tank",
 		"stats": "+55 Stamina and +22 Agility",
-		"statsDE": "+55 Ausdauer und +22 Beweglichkeit"
+		"statsDE": "+55 Ausdauer und +22 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 3328,
         "tier": 2,
@@ -501,7 +570,8 @@
         "itemid": 60584,
         "role": "physical",
 		"stats": "+75 Attack Power and +22 Critical Strike Rating",
-		"statsDE": "+75 Angriffskraft und +22 kritische Trefferwertung"
+		"statsDE": "+75 Angriffskraft und +22 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3327,
         "tier": 2,
@@ -509,7 +579,8 @@
         "itemid": 60583,
         "role": "tank",
 		"stats": "+55 Stamina and +22 Agility",
-		"statsDE": "+55 Ausdauer und +22 Beweglichkeit"
+		"statsDE": "+55 Ausdauer und +22 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 3873,
         "tier": 2,
@@ -517,7 +588,8 @@
         "itemid": 56034,
         "role": "caster",
         "stats": "+50 Spell Power and +30 Stamina",
-		"statsDE": "+50 Zaubermacht und +30 Ausdauer"
+		"statsDE": "+50 Zaubermacht und +30 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 3872,
         "tier": 2,
@@ -525,7 +597,8 @@
         "itemid": 56039,
         "role": "caster",
         "stats": "+50 Spell Power and +20 Spirit",
-		"statsDE": "+50 Zaubermacht und +20 Willenskraft"
+		"statsDE": "+50 Zaubermacht und +20 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 3721,
         "tier": 2,
@@ -533,7 +606,8 @@
         "itemid": 41604,
         "role": "caster",
         "stats": "+50 Spell Power and +30 Stamina",
-		"statsDE": "+50 Zaubermacht und +30 Ausdauer"
+		"statsDE": "+50 Zaubermacht und +30 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 3719,
         "tier": 2,
@@ -541,7 +615,8 @@
         "itemid": 41602,
         "role": "caster",
         "stats": "+50 Spell Power and +20 Spirit",
-		"statsDE": "+50 Zaubermacht und +20 Willenskraft"
+		"statsDE": "+50 Zaubermacht und +20 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4121,
         "tier": 2,
@@ -549,7 +624,8 @@
         "itemid": 56517,
         "role": "tank",
         "stats": "+44 Stamina",
-		"statsDE": "+44 Ausdauer"
+		"statsDE": "+44 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4120,
         "tier": 2,
@@ -557,7 +633,8 @@
         "itemid": 56477,
         "role": "tank",
         "stats": "+36 Stamina",
-		"statsDE": "+36 Ausdauer"
+		"statsDE": "+36 Ausdauer",
+        "version": "cataclysm"
     }],
     "7": [{
         "id": 4105,
@@ -566,7 +643,8 @@
         "itemid": 52781,
         "type": "agility",
         "stats": "+25 Agility and Minor Movement Speed",
-		"statsDE": "+25 Beweglichkeit und geringe Bewegungstempoerhöhung"
+		"statsDE": "+25 Beweglichkeit und geringe Bewegungstempoerhöhung",
+        "version": "cataclysm"
     },{
         "id": 4062,
         "tier": 0,
@@ -574,21 +652,24 @@
         "itemid": 52743,
         "role": "tank",
         "stats": "+30 Stamina and Minor Movement Speed",
-		"statsDE": "+30 Ausdauer und geringe Bewegungstempoerhöhung"
+		"statsDE": "+30 Ausdauer und geringe Bewegungstempoerhöhung",
+        "version": "cataclysm"
     },{
         "id": 4069,
         "tier": 0,
         "name": "Boots - Haste",
         "itemid": 52750,
         "stats": "+50 Haste Rating",
-		"statsDE": "+50 Tempowertung"
+		"statsDE": "+50 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4104,
         "tier": 0,
         "name": "Boots - Lavawalker",
         "itemid": 52782,
         "stats": "+35 Mastery Rating and Minor Movement Speed",
-		"statsDE": "+35 Meisterschaftswertung und geringe Bewegungstempoerhöhung"
+		"statsDE": "+35 Meisterschaftswertung und geringe Bewegungstempoerhöhung",
+        "version": "cataclysm"
     },{
         "id": 4076,
         "tier": 0,
@@ -596,42 +677,48 @@
         "itemid": 52757,
         "type": "agility",
         "stats": "+35 Agility",
-		"statsDE": "+35 Beweglichkeit"
+		"statsDE": "+35 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4094,
         "tier": 0,
         "name": "Boots - Mastery",
         "itemid": 52771,
 		"stats": "+50 Mastery Rating",
-        "statsDE": "+50 Meisterschaftswertung"
+        "statsDE": "+50 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4092,
         "tier": 0,
         "name": "Boots - Precision",
         "itemid": 52769,
         "stats": "+50 Hit Rating",
-		"statsDE": "+50 Trefferwertung"
+		"statsDE": "+50 Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3232,
         "tier": 2,
         "name": "Boots - Tuskarr's Vitality",
         "itemid": 47901,
         "stats": "+15 Stamina and Minor Movement Speed",
-		"statsDE": "+15 Ausdauer und geringe Bewegungstempoerhöhung"
+		"statsDE": "+15 Ausdauer und geringe Bewegungstempoerhöhung",
+        "version": "cataclysm"
     },{
         "id": 911,
         "tier": 2,
         "name": "Boots - Minor Speed",
         "itemid": 13890,
         "stats": "Minor Speed Increase",
-		"statsDE": "Schwache Temposteigerung"
+		"statsDE": "Schwache Temposteigerung",
+        "version": "cataclysm"
     },{
         "id": 3826,
         "tier": 2,
         "name": "Boots - Icewalker",
         "itemid": 60623,
         "stats": "+12 Hit Rating and +12 Critical Strike Rating",
-		"statsDE": "+12 Trefferwertung und +12 kritische Trefferwertung"
+		"statsDE": "+12 Trefferwertung und +12 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4121,
         "tier": 1,
@@ -639,7 +726,8 @@
         "itemid": 56517,
         "role": "tank",
         "stats": "+44 Stamina",
-		"statsDE": "+44 Ausdauer"
+		"statsDE": "+44 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4120,
         "tier": 2,
@@ -647,7 +735,8 @@
         "itemid": 56477,
         "role": "tank",
         "stats": "+36 Stamina",
-		"statsDE": "+36 Ausdauer"
+		"statsDE": "+36 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 983,
         "tier": 2,
@@ -656,28 +745,32 @@
         "type": "agility",
         "role": "dps",
         "stats": "+16 Agility",
-		"statsDE": "+16 Beweglichkeit"
+		"statsDE": "+16 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 1597,
         "tier": 2,
         "name": "Boots - Greater Assault",
         "itemid": 60763,
         "stats": "+32 Attack Power",
-		"statsDE": "+32 Angriffskraft"
+		"statsDE": "+32 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 3824,
         "tier": 2,
         "name": "Boots - Assault",
         "itemid": 60606,
         "stats": "+24 Attack Power",
-		"statsDE": "+24 Angriffskraft"
+		"statsDE": "+24 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 2939,
         "tier": 2,
         "name": "Boots - Cat's Swiftness",
         "itemid": 34007,
         "stats": "+6 Agility and Minor Movement Speed",
-		"statsDE": "+6 Beweglichkeit und geringe Bewegungstempoerhöhung"
+		"statsDE": "+6 Beweglichkeit und geringe Bewegungstempoerhöhung",
+        "version": "cataclysm"
     }],
     "8": [{
         "id": 4065,
@@ -685,42 +778,48 @@
         "name": "Bracer - Speed",
         "itemid": 52746,
         "stats": "+50 Haste Rating",
-		"statsDE": "+50 Tempowertung"
+		"statsDE": "+50 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4071,
         "tier": 1,
         "name": "Bracer - Critical Strike",
         "itemid": 52752,
         "stats": "+50 Critical Strike Rating",
-		"statsDE": "+50 Kritische Trefferwertung"
+		"statsDE": "+50 Kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4086,
         "tier": 1,
         "name": "Bracer - Superior Dodge",
         "itemid": 52763,
         "stats": "+50 Dodge Rating",
-		"statsDE": "+50 Ausweichwertung"
+		"statsDE": "+50 Ausweichwertung",
+        "version": "cataclysm"
     },{
         "id": 4089,
         "tier": 1,
         "name": "Bracer - Precision",
         "itemid": 52766,
         "stats": "+50 Hit Rating",
-		"statsDE": "+50 Trefferwertung"
+		"statsDE": "+50 Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4093,
         "tier": 1,
         "name": "Bracer - Exceptional Spirit",
         "itemid": 52770,
         "stats": "+50 Spirit",
-		"statsDE": "+50 Willenskraft"
+		"statsDE": "+50 Willenskraft",
+        "version": "cataclysm"
     },{
         "id": 4095,
         "tier": 1,
         "name": "Bracer - Greater Expertise",
         "itemid": 52772,
         "stats": "+50 Expertise Rating",
-		"statsDE": "+50 Waffenkundewertung"
+		"statsDE": "+50 Waffenkundewertung",
+        "version": "cataclysm"
     },{
         "id": 4258,
         "tier": 0,
@@ -728,7 +827,8 @@
         "itemid": 68784,
         "type": "agility",
         "stats": "+50 Agility",
-		"statsDE": "+50 Beweglichkeit"
+		"statsDE": "+50 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4256,
         "tier": 0,
@@ -736,7 +836,8 @@
         "itemid": 68785,
         "type": "strength",
         "stats": "+50 Strength",
-		"statsDE": "+50 Stärke"
+		"statsDE": "+50 Stärke",
+        "version": "cataclysm"
     },{
         "id": 4257,
         "tier": 0,
@@ -744,21 +845,24 @@
         "itemid": 68786,
         "role": "caster",
         "stats": "+50 Intellect",
-		"statsDE": "+50 Intelligenz"
+		"statsDE": "+50 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4101,
         "tier": 0,
         "name": "Bracer - Greater Critical Strike",
         "itemid": 52778,
         "stats": "+65 Critical Strike Rating",
-		"statsDE": "+65 Kritische Trefferwertung"
+		"statsDE": "+65 Kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4108,
         "tier": 0,
         "name": "Bracer - Greater Speed",
         "itemid": 52778,
         "stats": "+65 Haste Rating",
-		"statsDE": "+65 Tempowertung"
+		"statsDE": "+65 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4190,
         "tier": 0,
@@ -766,7 +870,8 @@
         "itemid": 85008,
         "type": "agility",
         "stats": "+130 Agility",
-		"statsDE": "+130 Beweglichkeit"
+		"statsDE": "+130 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4192,
         "tier": 0,
@@ -774,7 +879,8 @@
         "itemid": 85010,
         "role": "caster",
         "stats": "+130 Intellect",
-		"statsDE": "+130 Intelligenz"
+		"statsDE": "+130 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4189,
         "tier": 0,
@@ -782,7 +888,8 @@
         "itemid": 85007,
         "role": "tank",
         "stats": "+195 Stamina",
-		"statsDE": "+195 Ausdauer"
+		"statsDE": "+195 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4191,
         "tier": 0,
@@ -790,7 +897,8 @@
         "itemid": 85009,
         "type": "strength",
         "stats": "+130 Strength",
-		"statsDE": "+130 Stärke"
+		"statsDE": "+130 Stärke",
+        "version": "cataclysm"
     },{
         "id": 3850,
         "tier": 0,
@@ -798,49 +906,56 @@
         "itemid": 44944,
         "role": "tank",
         "stats": "+40 Stamina",
-		"statsDE": "+40 Ausdauer"
+		"statsDE": "+40 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 3845,
         "tier": 2,
         "name": "Bracer - Greater Assault",
         "itemid": 44575,
         "stats": "+50 Attack Power",
-		"statsDE": "+50 Angriffskraft"
+		"statsDE": "+50 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 2332,
         "tier": 2,
         "name": "Bracer - Superior Spellpower",
         "itemid": 60767,
         "stats": "+30 Spellpower",
-		"statsDE": "+30 Zaubermacht"
+		"statsDE": "+30 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 2661,
         "tier": 2,
         "name": "Bracer - Greater Stats",
         "itemid": 44616,
         "stats": "+6 All Stats",
-		"statsDE": "+6 alle Werte"
+		"statsDE": "+6 alle Werte",
+        "version": "cataclysm"
     },{
         "id": 3756,
         "tier": 2,
         "name": "Fur Lining - Attack Power",
         "itemid": 57683,
         "stats": "+130 Attack Power",
-		"statsDE": "+130 Angriffskraft"
+		"statsDE": "+130 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 3758,
         "tier": 2,
         "name": "Fur Lining - Spell Power",
         "itemid": 57691,
         "stats": "+76 Spell Power",
-		"statsDE": "+76 Zaubermacht"
+		"statsDE": "+76 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 3757,
         "tier": 2,
         "name": "Fur Lining - Stamina",
         "itemid": 57690,
         "stats": "+102 Stamina",
-		"statsDE": "+102 Ausdauer"
+		"statsDE": "+102 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 1119,
         "tier": 2,
@@ -848,35 +963,40 @@
         "itemid": 44555,
         "role": "caster",
         "stats": "+16 Intellect",
-		"statsDE": "+16 Intelligenz"
+		"statsDE": "+16 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 2650,
         "tier": 2,
         "name": "Bracer - Spellpower",
         "itemid": 27917,
         "stats": "+15 Spellpower",
-		"statsDE": "+15 Zaubermacht"
+		"statsDE": "+15 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 2326,
         "tier": 2,
         "name": "Bracer - Greater Spellpower",
         "itemid": 44635,
         "stats": "+23 Spellpower",
-		"statsDE": "+23 Zaubermacht"
+		"statsDE": "+23 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 1593,
         "tier": 2,
         "name": "Bracer - Lesser Assault",
         "itemid": 34002,
         "stats": "+24 Attack Power",
-		"statsDE": "+24 Angriffskraft"
+		"statsDE": "+24 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 1600,
         "tier": 2,
         "name": "Bracer - Assault",
         "itemid": 60616,
         "stats": "+38 Attack Power",
-		"statsDE": "+38 Angriffskraft"
+		"statsDE": "+38 Angriffskraft",
+        "version": "cataclysm"
     }],
     "9": [{
         "id": 4061,
@@ -884,14 +1004,16 @@
         "name": "Gloves - Mastery",
         "itemid": 52687,
         "stats": "+50 Mastery Rating",
-		"statsDE": "+50 Meisterschaftswertung"
+		"statsDE": "+50 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4068,
         "tier": 0,
         "name": "Gloves - Haste",
         "itemid": 52749,
         "stats": "+50 Haste Rating",
-		"statsDE": "+50 Tempowertung"
+		"statsDE": "+50 Tempowertung",
+        "version": "cataclysm"
     },{
         "id": 4075,
         "tier": 1,
@@ -899,7 +1021,8 @@
         "itemid": 52756,
         "type": "strength",
         "stats": "+35 Strength",
-		"statsDE": "+35 Stärke"
+		"statsDE": "+35 Stärke",
+        "version": "cataclysm"
     },{
         "id": 4082,
         "tier": 1,
@@ -907,14 +1030,16 @@
         "itemid": 52759,
         "role": "melee",
         "stats": "+50 Expertise Rating",
-		"statsDE": "+50 Waffenkundewertung"
+		"statsDE": "+50 Waffenkundewertung",
+        "version": "cataclysm"
     },{
         "id": 4107,
         "tier": 0,
         "name": "Gloves - Greater Mastery",
         "itemid": 52784,
         "stats": "+65 Mastery Rating",
-		"statsDE": "+65 Meisterschaftswertung"
+		"statsDE": "+65 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4106,
         "tier": 0,
@@ -922,7 +1047,8 @@
         "itemid": 52783,
         "type": "strength",
         "stats": "+50 Strength",
-		"statsDE": "+50 Stärke"
+		"statsDE": "+50 Stärke",
+        "version": "cataclysm"
     },{
         "id": 4121,
         "tier": 0,
@@ -930,7 +1056,8 @@
         "itemid": 56517,
         "role": "tank",
         "stats": "+44 Stamina",
-		"statsDE": "+44 Ausdauer"
+		"statsDE": "+44 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4120,
         "tier": 1,
@@ -938,7 +1065,8 @@
         "itemid": 56477,
         "role": "tank",
         "stats": "+36 Stamina",
-		"statsDE": "+36 Ausdauer"
+		"statsDE": "+36 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 3222,
         "tier": 0,
@@ -946,14 +1074,16 @@
         "itemid": 38967,
         "type": "agility",
         "stats": "+20 Agility",
-		"statsDE": "+20 Beweglichkeit"
+		"statsDE": "+20 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4179,
         "tier": 0,
         "name": "Synapse Springs",
         "itemid": 82174,
         "stats": "Synapse Springs",
-		"statsDE": "Synapsenfedern"
+		"statsDE": "Synapsenfedern",
+        "version": "cataclysm"
     },{
         "id": 4180,
         "tier": 0,
@@ -961,7 +1091,8 @@
         "itemid": 82177,
         "role": "tank",
         "stats": "Quickflip Deflection Plates",
-		"statsDE": "Schnelldrehende Abwehrplatten"
+		"statsDE": "Schnelldrehende Abwehrplatten",
+        "version": "cataclysm"
     },{
         "id": 2564,
         "tier": 1,
@@ -970,7 +1101,8 @@
         "type": "agility",
         "role": "dps",
         "stats": "+15 Agility",
-		"statsDE": "+15 Beweglichkeit"
+		"statsDE": "+15 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 3260,
         "tier": 0,
@@ -978,35 +1110,40 @@
         "itemid": 34207,
         "role": "tank",
         "stats": "+240 Armor",
-		"statsDE": "+240 Rüstung"
+		"statsDE": "+240 Rüstung",
+        "version": "cataclysm"
     },{
         "id": 3246,
         "tier": 2,
         "name": "Gloves - Exceptional Spellpower",
         "itemid": 44592,
         "stats": "+28 Spellpower",
-		"statsDE": "+28 Zaubermacht"
+		"statsDE": "+28 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 2937,
         "tier": 2,
         "name": "Gloves - Major Spellpower",
         "itemid": 33997,
         "stats": "+20 Spellpower",
-		"statsDE": "+20 Zaubermacht"
+		"statsDE": "+20 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 1603,
         "tier": 2,
         "name": "Gloves - Crusher",
         "itemid": 60668,
         "stats": "+44 Attack Power",
-		"statsDE": "+44 Angriffskraft"
+		"statsDE": "+44 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 3234,
         "tier": 2,
         "name": "Gloves - Precision",
         "itemid": 44488,
         "stats": "+20 Hit Rating",
-		"statsDE": "+20 Trefferwertung"
+		"statsDE": "+20 Trefferwertung",
+        "version": "cataclysm"
     }],
     "10": [{
         "id": 4080,
@@ -1015,7 +1152,8 @@
         "itemid": 74217,
         "role": "caster",
         "stats": "+40 Intellect",
-		"statsDE": "+40 Intelligenz"
+		"statsDE": "+40 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4079,
         "tier": 0,
@@ -1023,7 +1161,8 @@
         "itemid": 74216,
         "type": "agility",
         "stats": "+40 Agility",
-		"statsDE": "+40 Beweglichkeit"
+		"statsDE": "+40 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4081,
         "tier": 0,
@@ -1031,7 +1170,8 @@
         "itemid": 74218,
         "role": "tank",
         "stats": "+40 Stamina",
-		"statsDE": "+40 Ausdauer"
+		"statsDE": "+40 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4078,
         "tier": 0,
@@ -1039,7 +1179,8 @@
         "itemid": 74215,
         "type": "strength",
         "stats": "+40 Strength",
-		"statsDE": "+40 Stärke"
+		"statsDE": "+40 Stärke",
+        "version": "cataclysm"
     }],
     "11": [{
         "id": 4080,
@@ -1048,7 +1189,8 @@
         "itemid": 74217,
         "role": "caster",
         "stats": "+40 Intellect",
-		"statsDE": "+40 Intelligenz"
+		"statsDE": "+40 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4079,
         "tier": 0,
@@ -1056,7 +1198,8 @@
         "itemid": 74216,
         "type": "agility",
         "stats": "+40 Agility",
-		"statsDE": "+40 Beweglichkeit"
+		"statsDE": "+40 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4081,
         "tier": 0,
@@ -1064,7 +1207,8 @@
         "itemid": 74218,
         "role": "tank",
         "stats": "+40 Stamina",
-		"statsDE": "+40 Ausdauer"
+		"statsDE": "+40 Ausdauer",
+        "version": "cataclysm"
     },{
         "id": 4078,
         "tier": 0,
@@ -1072,7 +1216,8 @@
         "itemid": 74215,
         "type": "strength",
         "stats": "+40 Strength",
-		"statsDE": "+40 Stärke"
+		"statsDE": "+40 Stärke",
+        "version": "cataclysm"
     }],
     "12": [],
     "13": [],
@@ -1082,7 +1227,8 @@
         "name": "Cloak - Greater Spell Piercing",
         "itemid": 52745,
         "stats": "+70 Spell Penetration",
-		"statsDE": "+70 Zauberdurchschlag"
+		"statsDE": "+70 Zauberdurchschlag",
+        "version": "cataclysm"
     },{
         "id": 4072,
         "tier": 1,
@@ -1090,14 +1236,16 @@
         "itemid": 52753,
         "role": "caster",
         "stats": "+30 Intellect",
-		"statsDE": "+30 Intelligenz"
+		"statsDE": "+30 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4087,
         "tier": 1,
         "name": "Cloak - Critical Strike",
         "itemid": 52764,
         "stats": "+50 Critical Strike Rating",
-		"statsDE": "+50 Kritische Trefferwertung"
+		"statsDE": "+50 Kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4090,
         "tier": 0,
@@ -1105,7 +1253,8 @@
         "itemid": 52767,
         "role": "tank",
         "stats": "+250 Armor",
-		"statsDE": "+250 Rüstung"
+		"statsDE": "+250 Rüstung",
+        "version": "cataclysm"
     },{
         "id": 4096,
         "tier": 0,
@@ -1113,14 +1262,16 @@
         "itemid": 52773,
         "role": "caster",
         "stats": "+50 Intellect",
-		"statsDE": "+50 Intelligenz"
+		"statsDE": "+50 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4100,
         "tier": 0,
         "name": "Cloak - Greater Critical Strike",
         "itemid": 52777,
         "stats": "+65 Critical Strike Rating",
-		"statsDE": "+65 Kritische Trefferwertung"
+		"statsDE": "+65 Kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4116,
         "tier": 0,
@@ -1128,7 +1279,8 @@
         "itemid": 75175,
         "role": "healer",
         "stats": "Darkglow Embroidery",
-		"statsDE": "Dunkel glühendes Garn"
+		"statsDE": "Dunkel glühendes Garn",
+        "version": "cataclysm"
     },{
         "id": 4115,
         "tier": 0,
@@ -1136,7 +1288,8 @@
         "itemid": 75172,
         "role": "caster",
         "stats": "Lightweave Embroidery",
-		"statsDE": "Hell leuchtendes Garn"
+		"statsDE": "Hell leuchtendes Garn",
+        "version": "cataclysm"
     },{
         "id": 4118,
         "tier": 0,
@@ -1144,7 +1297,8 @@
         "itemid": 75178,
         "role": "physical",
         "stats": "Swordguard Embroidery",
-		"statsDE": "Schwertwallgarn"
+		"statsDE": "Schwertwallgarn",
+        "version": "cataclysm"
     },{
         "id": 3722,
         "tier": 2,
@@ -1152,7 +1306,8 @@
         "itemid": 55642,
         "role": "caster",
         "stats": "Lightweave Embroidery (Rank 1)",
-		"statsDE": "Hell leuchtendes Garn (Rang 1)"
+		"statsDE": "Hell leuchtendes Garn (Rang 1)",
+        "version": "cataclysm"
     },{
         "id": 1099,
         "tier": 0,
@@ -1160,7 +1315,8 @@
         "itemid": 44457,
         "type": "agility",
         "stats": "+22 Agility",
-		"statsDE": "+22 Beweglichkeit"
+		"statsDE": "+22 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 3294,
         "tier": 2,
@@ -1168,7 +1324,8 @@
         "itemid": 39001,
         "role": "tank",
         "stats": "+225 Armor",
-		"statsDE": "+225 Rüstung"
+		"statsDE": "+225 Rüstung",
+        "version": "cataclysm"
     },{
         "id": 3605,
         "tier": 0,
@@ -1182,7 +1339,8 @@
         "name": "Cloak - Superior Fire Resistance",
         "itemid": 44556,
         "stats": "+20 Fire Resistance",
-		"statsDE": "+20 Feuerwiderstand"
+		"statsDE": "+20 Feuerwiderstand",
+        "version": "cataclysm"
     }],
     "15": [{
         "id": 3368,
@@ -1219,7 +1377,8 @@
         "itemid": 68134,
         "type": "agility",
         "stats": "+130 Agility",
-		"statsDE": "+130 Beweglichkeit"
+		"statsDE": "+130 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 4067,
         "tier": 1,
@@ -1227,7 +1386,8 @@
         "itemid": 52748,
         "role": "melee",
         "stats": "Avalanche",
-		"statsDE": "Lawine"
+		"statsDE": "Lawine",
+        "version": "cataclysm"
     },{
         "id": 4074,
         "tier": 1,
@@ -1235,7 +1395,8 @@
         "itemid": 52755,
         "role": "melee",
         "stats": "Elemental Slayer",
-		"statsDE": "Elementartöter"
+		"statsDE": "Elementartöter",
+        "version": "cataclysm"
     },{
         "id": 4084,
         "tier": 1,
@@ -1243,14 +1404,16 @@
         "itemid": 52761,
         "role": "healer",
         "stats": "Heartsong",
-		"statsDE": "Gesang des Herzens"
+		"statsDE": "Gesang des Herzens",
+        "version": "cataclysm"
     },{
         "id": 4083,
         "tier": 1,
         "name": "Weapon - Hurricane",
         "itemid": 52760,
         "stats": "Hurricane",
-		"statsDE": "Hurrikan"
+		"statsDE": "Hurrikan",
+        "version": "cataclysm"
     },{
         "id": 4099,
         "tier": 0,
@@ -1258,14 +1421,16 @@
         "itemid": 52776,
         "role": "melee",
         "stats": "Landslide",
-		"statsDE": "Erdrutsch"
+		"statsDE": "Erdrutsch",
+        "version": "cataclysm"
     },{
         "id": 4066,
         "tier": 2,
         "name": "Weapon - Mending",
         "itemid": 52747,
         "stats": "Mending",
-		"statsDE": "Besserung"
+		"statsDE": "Besserung",
+        "version": "cataclysm"
     },{
         "id": 4097,
         "tier": 0,
@@ -1273,7 +1438,8 @@
         "itemid": 52774,
         "role": "caster",
         "stats": "Power Torrent",
-		"statsDE": "Machtstrom"
+		"statsDE": "Machtstrom",
+        "version": "cataclysm"
     },{
         "id": 4098,
         "tier": 0,
@@ -1281,7 +1447,8 @@
         "itemid": 52775,
         "role": "tank",
         "stats": "Windwalk",
-		"statsDE": "Windwandler"
+		"statsDE": "Windwandler",
+        "version": "cataclysm"
     },{
         "id": 3870,
         "tier": 2,
@@ -1289,7 +1456,8 @@
         "itemid": 46098,
         "role": "tank",
         "stats": "Blood Draining",
-		"statsDE": "Blutsauger"
+		"statsDE": "Blutsauger",
+        "version": "cataclysm"
     },{
         "id": 3834,
         "tier": 2,
@@ -1297,7 +1465,8 @@
         "itemid": 44487,
         "role": "caster",
         "stats": "+63 Spellpower",
-		"statsDE": "+63 Zaubermacht"
+		"statsDE": "+63 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 3789,
         "tier": 2,
@@ -1305,35 +1474,40 @@
         "itemid": 44493,
         "role": "melee",
         "stats": "Berserking",
-		"statsDE": "Berserker"
+		"statsDE": "Berserker",
+        "version": "cataclysm"
     },{
         "id": 3788,
         "tier": 2,
         "name": "Weapon - Accuracy",
         "itemid": 59619,
         "stats": "+25 Hit Rating and +25 Critical Strike Rating",
-		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung"
+		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 3854,
         "tier": 2,
         "name": "Staff - Greater Spellpower",
         "itemid": 62948,
         "stats": "+81 Spellpower",
-		"statsDE": "+81 Zaubermacht"
+		"statsDE": "+81 Zaubermacht",
+        "version": "cataclysm"
     },{
         "id": 4217,
         "tier": 2,
         "name": "Pyrium Weapon Chain",
         "itemid": 55057,
         "stats": "Pyrium Weapon Chain",
-		"statsDE": "Pyriumwaffenkette"
+		"statsDE": "Pyriumwaffenkette",
+        "version": "cataclysm"
     },{
         "id": 3828,
         "tier": 2,
         "name": "2H Weapon - Greater Savagery",
         "itemid": 44630,
         "stats": "+85 Attack Power",
-		"statsDE": "+85 Angriffskraft"
+		"statsDE": "+85 Angriffskraft",
+        "version": "cataclysm"
     },{
         "id": 3222,
         "tier": 2,
@@ -1341,7 +1515,8 @@
         "itemid": 42620,
         "type": "agility",
         "stats": "+20 Agility",
-		"statsDE": "+20 Beweglichkeit"
+		"statsDE": "+20 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 1103,
         "tier": 2,
@@ -1349,7 +1524,8 @@
         "itemid": 44633,
         "type": "agility",
         "stats": "+26 Agility",
-		"statsDE": "+26 Beweglichkeit"
+		"statsDE": "+26 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 2673,
         "tier": 2,
@@ -1357,7 +1533,8 @@
         "itemid": 27984,
         "type": "agility",
         "stats": "Mongoose",
-		"statsDE": "Mungo"
+		"statsDE": "Mungo",
+        "version": "cataclysm"
     }],
     "16": [{
         "id": 4091,
@@ -1366,14 +1543,16 @@
         "itemid": 52768,
         "role": "caster",
         "stats": "+40 Intellect",
-		"statsDE": "+40 Intelligenz"
+		"statsDE": "+40 Intelligenz",
+        "version": "cataclysm"
     },{
         "id": 4085,
         "tier": 0,
         "name": "Shield - Mastery",
         "itemid": 52762,
         "stats": "+50 Mastery Rating",
-		"statsDE": "+50 Meisterschaftswertung"
+		"statsDE": "+50 Meisterschaftswertung",
+        "version": "cataclysm"
     },{
         "id": 4073,
         "tier": 1,
@@ -1381,7 +1560,8 @@
         "itemid": 52754,
         "role": "tank",
         "stats": "+160 Armor",
-		"statsDE": "+160 Rüstung"
+		"statsDE": "+160 Rüstung",
+        "version": "cataclysm"
     },{
         "id": 3368,
         "tier": 0,
@@ -1409,14 +1589,16 @@
         "name": "Rune of the Nerubian Carapace",
         "itemid": 70164,
         "stats": "Rune of the Nerubian Carapace",
-		"statsDE": "Rune der nerubischen Panzerung"
+		"statsDE": "Rune der nerubischen Panzerung",
+        "version": "cataclysm"
     },{
         "id": 4083,
         "tier": 1,
         "name": "Weapon - Hurricane",
         "itemid": 52760,
         "stats": "Hurricane",
-		"statsDE": "Hurrikan"
+		"statsDE": "Hurrikan",
+        "version": "cataclysm"
     },{
         "id": 4099,
         "tier": 0,
@@ -1424,7 +1606,8 @@
         "itemid": 52776,
         "role": "melee",
         "stats": "Landslide",
-		"statsDE": "Erdrutsch"
+		"statsDE": "Erdrutsch",
+        "version": "cataclysm"
     },{
         "id": 3789,
         "tier": 2,
@@ -1432,21 +1615,24 @@
         "itemid": 44493,
         "role": "melee",
         "stats": "Berserking",
-		"statsDE": "Berserker"
+		"statsDE": "Berserker",
+        "version": "cataclysm"
     },{
         "id": 3788,
         "tier": 2,
         "name": "Weapon - Accuracy",
         "itemid": 59619,
         "stats": "+25 Hit Rating and +25 Critical Strike Rating",
-		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung"
+		"statsDE": "+25 Trefferwertung und +25 kritische Trefferwertung",
+        "version": "cataclysm"
     },{
         "id": 4217,
         "tier": 2,
         "name": "Pyrium Weapon Chain",
         "itemid": 55057,
         "stats": "Pyrium Weapon Chain",
-		"statsDE": "Pyriumwaffenkette"
+		"statsDE": "Pyriumwaffenkette",
+        "version": "cataclysm"
     },{
         "id": 3222,
         "tier": 2,
@@ -1454,7 +1640,8 @@
         "itemid": 42620,
         "type": "agility",
         "stats": "+20 Agility",
-		"statsDE": "+20 Beweglichkeit"
+		"statsDE": "+20 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 1103,
         "tier": 2,
@@ -1462,7 +1649,8 @@
         "itemid": 44633,
         "type": "agility",
         "stats": "+26 Agility",
-		"statsDE": "+26 Beweglichkeit"
+		"statsDE": "+26 Beweglichkeit",
+        "version": "cataclysm"
     },{
         "id": 2673,
         "tier": 2,
@@ -1470,7 +1658,8 @@
         "itemid": 27984,
         "type": "agility",
         "stats": "Mongoose",
-		"statsDE": "Mungo"
+		"statsDE": "Mungo",
+        "version": "cataclysm"
     },{
         "id": 1128,
         "tier": 2,
@@ -1478,7 +1667,8 @@
         "itemid": 60653,
         "role": "caster",
         "stats": "+25 Intellect",
-		"statsDE": "+25 Intelligenz"
+		"statsDE": "+25 Intelligenz",
+        "version": "cataclysm"
     }],
     "17": [{
         "id": 4267,
@@ -1487,7 +1677,8 @@
         "itemid": 70139,
         "role": "ranged",
         "stats": "Flintlocke's Woodchucker",
-		"statsDE": "Flintlockes Holzhacker"
+		"statsDE": "Flintlockes Holzhacker",
+        "version": "cataclysm"
     },{
         "id": 4175,
         "tier": 1,
@@ -1495,7 +1686,8 @@
         "itemid": 59594,
         "role": "ranged",
         "stats": "Gnomish X-Ray Scope",
-		"statsDE": "Gnomisches Röntgenzielfernrohr"
+		"statsDE": "Gnomisches Röntgenzielfernrohr",
+        "version": "cataclysm"
     },{
         "id": 4177,
         "tier": 2,
@@ -1503,7 +1695,8 @@
         "itemid": 59596,
         "role": "ranged",
         "stats": "+88 Ranged Haste Rating",
-		"statsDE": "+88 Distanztempowertung"
+		"statsDE": "+88 Distanztempowertung",
+        "version": "cataclysm"
     },{
         "id": 4176,
         "tier": 2,
@@ -1511,6 +1704,7 @@
         "itemid": 59595,
         "role": "ranged",
         "stats": "+88 Ranged Hit Rating",
-		"statsDE": "+88 Distanztrefferwertung"
+		"statsDE": "+88 Distanztrefferwertung",
+        "version": "cataclysm"
     }]
 }
