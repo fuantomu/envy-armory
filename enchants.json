@@ -292,7 +292,7 @@
         "name": "Greater Inscription of the Axe",
         "itemid": 50335,
         "role": "dps",
-        "stats": "+40 Attack Power and +15 Crit Rating",
+        "stats": "+40 Attack Power and +15 Critical Strike Rating",
         "statsDE": "+40 Angriffskraft und +15 kritische Trefferwertung",
         "version": "cataclysm"
     },{
@@ -313,6 +313,111 @@
         "stats": "+36 Stamina",
 		"statsDE": "+36 Ausdauer",
         "version": "cataclysm"
+    },{
+        "id": 4806,
+        "tier": 0,
+        "name": "Greater Crane Wing Inscription",
+        "itemid": 87559,
+        "stats": "+200 Intellect and +100 Critical Strike Rating",
+        "statsDE": "+200 Intelligenz und +100 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4805,
+        "tier": 0,
+        "name": "Greater Ox Horn Inscription",
+        "itemid": 87560,
+        "role": "tank",
+        "stats": "+300 Stamina and +100 Dodge Rating",
+        "statsDE": "+300 Ausdauer und +100 Ausweichwertung",
+        "version": "mop"
+    },{
+        "id": 4804,
+        "tier": 0,
+        "name": "Greater Tiger Claw Inscription",
+        "itemid": 83007,
+        "type": "agility",
+        "stats": "+200 Agility and +100 Critical Strike Rating",
+        "statsDE": "+200 Beweglichkeit und +100 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4803,
+        "tier": 0,
+        "name": "Greater Tiger Fang Inscription",
+        "itemid": 83006,
+        "type": "st",
+        "stats": "+200 Strength and +100 Critical Strike Rating",
+        "statsDE": "+200 Stärke und +100 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4915,
+        "tier": 0,
+        "name": "Secret Crane Wing Inscription",
+        "itemid": 87582,
+        "stats": "+520 Intellect and +100 Critical Strike Rating",
+        "statsDE": "+520 Intelligenz und +100 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4912,
+        "tier": 0,
+        "name": "Secret Ox Horn Inscription",
+        "itemid": 87581,
+        "role": "tank",
+        "stats": "+780 Stamina and +100 Dodge Rating",
+        "statsDE": "+780 Ausdauer und +100 Ausweichwertung",
+        "version": "mop"
+    },{
+        "id": 4914,
+        "tier": 0,
+        "name": "Secret Tiger Claw Inscription",
+        "itemid": 87584,
+        "type": "agility",
+        "stats": "+520 Agility and +100 Critical Strike Rating",
+        "statsDE": "+520 Beweglichkeit und +100 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4913,
+        "tier": 0,
+        "name": "Secret Tiger Fang Inscription",
+        "itemid": 87585,
+        "type": "strength",
+        "stats": "+520 Strength and +100 Critical Strike Rating",
+        "statsDE": "+520 Stärke und +100 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4909,
+        "tier": 1,
+        "name": "Crane Wing Inscription",
+        "itemid": 87578,
+        "stats": "+120 Intellect and +80 Critical Strike Rating",
+        "statsDE": "+120 Intelligenz und +80 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4910,
+        "tier": 1,
+        "name": "Ox Horn Inscription",
+        "itemid": 87577,
+        "role": "tank",
+        "stats": "+180 Stamina and +80 Dodge Rating",
+        "statsDE": "+180 Ausdauer und +80 Ausweichwertung",
+        "version": "mop"
+    },{
+        "id": 4908,
+        "tier": 1,
+        "name": "Tiger Claw Inscription",
+        "itemid": 87579,
+        "type": "agility",
+        "stats": "+120 Agility and +80 Critical Strike Rating",
+        "statsDE": "+120 Beweglichkeit und +80 kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4907,
+        "tier": 1,
+        "name": "Tiger Fang Inscription",
+        "itemid": 87580,
+        "type": "strength",
+        "stats": "+120 Strength and +80 Critical Strike Rating",
+        "statsDE": "+120 Stärke und +80 kritische Trefferwertung",
+        "version": "mop"
     }],
     "3": [],
     "4": [{
@@ -391,6 +496,31 @@
         "stats": "+36 Stamina",
 		"statsDE": "+36 Ausdauer",
         "version": "cataclysm"
+    },{
+        "id": 4419,
+        "tier": 0,
+        "name": "Chest - Glorious Stats",
+        "itemid": 74708,
+        "stats": "+80 All Stats",
+		"statsDE": "+80 alle Werte",
+        "version": "mop"
+    },{
+        "id": 4418,
+        "tier": 0,
+        "name": "Chest - Mighty Spirit",
+        "itemid": 84564,
+        "stats": "+200 Spirit",
+		"statsDE": "+200 Willenskraft",
+        "version": "mop"
+    },{
+        "id": 4420,
+        "tier": 0,
+        "name": "Chest - Superior Stamina",
+        "itemid": 74709,
+        "role": "tank",
+        "stats": "+300 Stamina",
+		"statsDE": "+300 Ausdauer",
+        "version": "mop"
     }],
     "5": [{
         "id": 3729,
@@ -407,7 +537,7 @@
         "itemid": 55016,
         "stats": "Nitro Boosts",
 		"statsDE": "Nitrobooster",
-        "version": "cataclysm"
+        "version": "any"
     },{
         "id": 5002,
         "tier": 0,
@@ -635,6 +765,118 @@
         "stats": "+36 Stamina",
 		"statsDE": "+36 Ausdauer",
         "version": "cataclysm"
+    },{
+        "id": 4823,
+        "tier": 0,
+        "name": "Angerhide Leg Armor",
+        "itemid": 83765,
+        "role": "physical",
+        "type": "strength",
+        "stats": "+285 Strength and +165 Critical Strike Rating",
+		"statsDE": "+285 Stärke und +165 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4824,
+        "tier": 0,
+        "name": "Ironscale Leg Armor",
+        "itemid": 83763,
+        "role": "tank",
+        "stats": "+430 Stamina and +165 Dodge Rating",
+		"statsDE": "+430 Ausdauer und +165 Ausweichwertung",
+        "version": "mop"
+    },{
+        "id": 4822,
+        "tier": 0,
+        "name": "Shadowleather Leg Armor",
+        "itemid": 83764,
+        "role": "physical",
+        "type": "agility",
+        "stats": "+285 Agility and +165 Critical Strike Rating",
+		"statsDE": "+285 Beweglichkeit und +165 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4872,
+        "tier": 1,
+        "name": "Brutal Leg Armor",
+        "itemid": 85568,
+        "role": "physical",
+        "type": "strength",
+        "stats": "+170 Strength and +100 Critical Strike Rating",
+		"statsDE": "+170 Stärke und +100 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4870,
+        "tier": 1,
+        "name": "Toughened Leg Armor",
+        "itemid": 85570,
+        "role": "tank",
+        "stats": "+250 Stamina and +100 Dodge Rating",
+		"statsDE": "+250 Ausdauer und +100 Ausweichwertung",
+        "version": "mop"
+    },{
+        "id": 4871,
+        "tier": 1,
+        "name": "Sha-Touched Leg Armor",
+        "itemid": 85569,
+        "role": "physical",
+        "type": "agility",
+        "stats": "+170 Agility and +100 Critical Strike Rating",
+		"statsDE": "+170 Beweglichkeit und +100 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4895,
+        "tier": 0,
+        "name": "Master's Spellthread",
+        "itemid": 125496,
+        "role": "caster",
+        "stats": "+285 Intellect and +165 Critical Strike Rating",
+		"statsDE": "+285 Intelligenz und +165 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4896,
+        "tier": 0,
+        "name": "Sanctified Spellthread",
+        "itemid": 125497,
+        "role": "caster",
+        "stats": "+285 Intellect and +165 Spirit",
+		"statsDE": "+285 Intelligenz und +165 Willenskraft",
+        "version": "mop"
+    },{
+        "id": 4825,
+        "tier": 0,
+        "name": "Greater Cerulean Spellthread",
+        "itemid": 82445,
+        "role": "caster",
+        "stats": "+285 Intellect and +165 Critical Strike Rating",
+		"statsDE": "+285 Intelligenz und +165 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4826,
+        "tier": 0,
+        "name": "Greater Pearlescent Spellthread",
+        "itemid": 82444,
+        "role": "caster",
+        "stats": "+285 Intellect and +165 Spirit",
+		"statsDE": "+285 Intelligenz und +165 Willenskraft",
+        "version": "mop"
+    },{
+        "id": 5003,
+        "tier": 0,
+        "name": "Cerulean Spellthread",
+        "itemid": 82445,
+        "role": "caster",
+        "stats": "+170 Intellect and +100 Critical Strike Rating",
+		"statsDE": "+170 Intelligenz und +100 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 5004,
+        "tier": 1,
+        "name": "Pearlescent Spellthread",
+        "itemid": 82442,
+        "role": "caster",
+        "stats": "+170 Intellect and +100 Spirit",
+		"statsDE": "+170 Intelligenz und +100 Willenskraft",
+        "version": "mop"
     }],
     "7": [{
         "id": 4105,
@@ -771,6 +1013,38 @@
         "stats": "+6 Agility and Minor Movement Speed",
 		"statsDE": "+6 Beweglichkeit und geringe Bewegungstempoerhöhung",
         "version": "cataclysm"
+    },{
+        "id": 4429,
+        "tier": 0,
+        "name": "Boots - Pandaren's Step",
+        "itemid": 74718,
+        "stats": "+140 Mastery and Minor Movement Speed",
+		"statsDE": "+140 Meisterschaft und geringe Bewegungstempoerhöhung",
+        "version": "mop"
+    },{
+        "id": 4427,
+        "tier": 1,
+        "name": "Boots - Greater Precision",
+        "itemid": 74716,
+        "stats": "+175 Hit Rating",
+		"statsDE": "+175 Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4428,
+        "tier": 0,
+        "name": "Boots - Blurred Speed",
+        "itemid": 74717,
+        "stats": "+140 Agility and Minor Movement Speed",
+		"statsDE": "+140 Beweglichkeit und geringe Bewegungstempoerhöhung",
+        "version": "mop"
+    },{
+        "id": 4426,
+        "tier": 0,
+        "name": "Boots - Greater Haste",
+        "itemid": 74715,
+        "stats": "+175 Haste Rating",
+		"statsDE": "+175 Tempowertung",
+        "version": "mop"
     }],
     "8": [{
         "id": 4065,
@@ -997,6 +1271,74 @@
         "stats": "+38 Attack Power",
 		"statsDE": "+38 Angriffskraft",
         "version": "cataclysm"
+    },{
+        "id": 4875,
+        "tier": 0,
+        "name": "Fur Lining - Agility",
+        "itemid": 124551,
+        "type": "agility",
+        "stats": "+500 Agility",
+		"statsDE": "+500 Beweglichkeit",
+        "version": "mop"
+    },{
+        "id": 4877,
+        "tier": 0,
+        "name": "Fur Lining - Intellect",
+        "itemid": 124552,
+        "role": "caster",
+        "stats": "+500 Intellect",
+		"statsDE": "+500 Intelligenz",
+        "version": "mop"
+    },{
+        "id": 4878,
+        "tier": 0,
+        "name": "Fur Lining - Stamina",
+        "itemid": 124553,
+        "role": "tank",
+        "stats": "+750 Stamina",
+		"statsDE": "+750 Ausdauer",
+        "version": "mop"
+    },{
+        "id": 4879,
+        "tier": 0,
+        "name": "Fur Lining - Strength",
+        "itemid": 124554,
+        "type": "strength",
+        "stats": "+500 Strength",
+		"statsDE": "+500 Stärke",
+        "version": "mop"
+    },{
+        "id": 4415,
+        "tier": 0,
+        "name": "Bracer - Exceptional Strength",
+        "itemid": 74704,
+        "stats": "+180 Strength",
+		"statsDE": "+180 Stärke",
+        "version": "mop"
+    },{
+        "id": 4414,
+        "tier": 0,
+        "name": "Bracer - Super Intellect",
+        "itemid": 74703,
+        "stats": "+180 Intellect",
+		"statsDE": "+180 Intelligenz",
+        "version": "mop"
+    },{
+        "id": 4416,
+        "tier": 0,
+        "name": "Bracer - Greater Agility",
+        "itemid": 74705,
+        "stats": "+180 Agility",
+		"statsDE": "+180 Beweglichkeit",
+        "version": "mop"
+    },{
+        "id": 4412,
+        "tier": 0,
+        "name": "Bracer - Major Dodge",
+        "itemid": 74701,
+        "stats": "+170 Dodge Rating",
+		"statsDE": "+170 Ausweichwertung",
+        "version": "mop"
     }],
     "9": [{
         "id": 4061,
@@ -1144,6 +1486,46 @@
         "stats": "+20 Hit Rating",
 		"statsDE": "+20 Trefferwertung",
         "version": "cataclysm"
+    },{
+        "id": 4898,
+        "tier": 0,
+        "name": "Synapse Springs",
+        "itemid": 126734,
+        "stats": "Synapse Springs",
+		"statsDE": "Synapsenfedern",
+        "version": "mop"
+    },{
+        "id": 4431,
+        "tier": 0,
+        "name": "Gloves - Superior Expertise",
+        "itemid": 84570,
+        "stats": "+170 Expertise Rating",
+		"statsDE": "+170 Waffenkundewertung",
+        "version": "mop"
+    },{
+        "id": 4433,
+        "tier": 0,
+        "name": "Gloves - Superior Mastery",
+        "itemid": 74722,
+        "stats": "+170 Mastery Rating",
+		"statsDE": "+170 Meisterschaft",
+        "version": "mop"
+    },{
+        "id": 4430,
+        "tier": 0,
+        "name": "Gloves - Greater Haste",
+        "itemid": 74719,
+        "stats": "+170 Haste Rating",
+		"statsDE": "+170 Tempowertung",
+        "version": "mop"
+    },{
+        "id": 4432,
+        "tier": 0,
+        "name": "Gloves - Super Strength",
+        "itemid": 74721,
+        "stats": "+170 Strength",
+		"statsDE": "+170 Stärke",
+        "version": "mop"
     }],
     "10": [{
         "id": 4080,
@@ -1181,6 +1563,42 @@
         "stats": "+40 Strength",
 		"statsDE": "+40 Stärke",
         "version": "cataclysm"
+    },{
+        "id": 4360,
+        "tier": 0,
+        "name": "Ring - Greater Intellect",
+        "itemid": 84576,
+        "role": "caster",
+        "stats": "+160 Intellect",
+		"statsDE": "+160 Intelligenz",
+        "version": "mop"
+    },{
+        "id": 4359,
+        "tier": 0,
+        "name": "Ring - Greater Agility",
+        "itemid": 84575,
+        "type": "agility",
+        "stats": "+160 Agility",
+		"statsDE": "+160 Beweglichkeit",
+        "version": "mop"
+    },{
+        "id": 4361,
+        "tier": 0,
+        "name": "Ring - Greater Stamina",
+        "itemid": 84577,
+        "role": "tank",
+        "stats": "+240 Stamina",
+		"statsDE": "+240 Ausdauer",
+        "version": "mop"
+    },{
+        "id": 4807,
+        "tier": 0,
+        "name": "Ring - Greater Strength",
+        "itemid": 84578,
+        "type": "strength",
+        "stats": "+160 Strength",
+		"statsDE": "+160 Stärke",
+        "version": "mop"
     }],
     "11": [{
         "id": 4080,
@@ -1218,6 +1636,42 @@
         "stats": "+40 Strength",
 		"statsDE": "+40 Stärke",
         "version": "cataclysm"
+    },{
+        "id": 4360,
+        "tier": 0,
+        "name": "Ring - Greater Intellect",
+        "itemid": 84576,
+        "role": "caster",
+        "stats": "+160 Intellect",
+		"statsDE": "+160 Intelligenz",
+        "version": "mop"
+    },{
+        "id": 4359,
+        "tier": 0,
+        "name": "Ring - Greater Agility",
+        "itemid": 84575,
+        "type": "agility",
+        "stats": "+160 Agility",
+		"statsDE": "+160 Beweglichkeit",
+        "version": "mop"
+    },{
+        "id": 4361,
+        "tier": 0,
+        "name": "Ring - Greater Stamina",
+        "itemid": 84577,
+        "role": "tank",
+        "stats": "+240 Stamina",
+		"statsDE": "+240 Ausdauer",
+        "version": "mop"
+    },{
+        "id": 4807,
+        "tier": 0,
+        "name": "Ring - Greater Strength",
+        "itemid": 84578,
+        "type": "strength",
+        "stats": "+160 Strength",
+		"statsDE": "+160 Stärke",
+        "version": "mop"
     }],
     "12": [],
     "13": [],
@@ -1342,6 +1796,67 @@
         "stats": "+20 Fire Resistance",
 		"statsDE": "+20 Feuerwiderstand",
         "version": "cataclysm"
+    },{
+        "id": 4893,
+        "tier": 0,
+        "name": "Darkglow Embroidery",
+        "itemid": 125482,
+        "role": "healer",
+        "stats": "Darkglow Embroidery",
+		"statsDE": "Dunkel glühendes Garn",
+        "version": "mop"
+    },{
+        "id": 4892,
+        "tier": 0,
+        "name": "Lightweave Embroidery",
+        "itemid": 125481,
+        "role": "caster",
+        "stats": "Lightweave Embroidery",
+		"statsDE": "Hell leuchtendes Garn",
+        "version": "mop"
+    },{
+        "id": 4894,
+        "tier": 0,
+        "name": "Swordguard Embroidery",
+        "itemid": 125483,
+        "role": "physical",
+        "stats": "Swordguard Embroidery",
+		"statsDE": "Schwertwallgarn",
+        "version": "mop"
+    },{
+        "id": 4421,
+        "tier": 0,
+        "name": "Cloak - Accuracy",
+        "itemid": 84568,
+        "stats": "+180 Hit Rating",
+		"statsDE": "+180 Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4424,
+        "tier": 0,
+        "name": "Cloak - Superior Critical Strike",
+        "itemid": 74713,
+        "stats": "+180 Critical Strike Rating",
+		"statsDE": "+180 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4423,
+        "tier": 0,
+        "name": "Cloak - Superior Intellect",
+        "itemid": 84569,
+        "role": "caster",
+        "stats": "+180 Intellect",
+		"statsDE": "+180 Intelligenz",
+        "version": "mop"
+    },{
+        "id": 4422,
+        "tier": 0,
+        "name": "Cloak - Greater Protection",
+        "itemid": 84569,
+        "role": "tank",
+        "stats": "+200 Stamina",
+		"statsDE": "+200 Ausdauer",
+        "version": "mop"
     }],
     "15": [{
         "id": 3368,
@@ -1540,6 +2055,56 @@
         "stats": "Mongoose",
 		"statsDE": "Mungo",
         "version": "cataclysm"
+    },{
+        "id": 4445,
+        "tier": 2,
+        "name": "Weapon - Colossus",
+        "itemid": 74727,
+        "role": "tank",
+        "stats": "Colossus",
+		"statsDE": "Koloss",
+        "version": "mop"
+    },{
+        "id": 4446,
+        "tier": 0,
+        "name": "Weapon - River's Song",
+        "itemid": 74728,
+        "role": "tank",
+        "stats": "River's Song",
+		"statsDE": "Flussgesang",
+        "version": "mop"
+    },{
+        "id": 4441,
+        "tier": 1,
+        "name": "Weapon - Windsong",
+        "itemid": 74723,
+        "stats": "Windsong",
+		"statsDE": "Windweise",
+        "version": "mop"
+    },{
+        "id": 4442,
+        "tier": 0,
+        "name": "Weapon - Jade Spirit",
+        "itemid": 74724,
+        "stats": "Jade Spirit",
+		"statsDE": "Jadegeist",
+        "version": "mop"
+    },{
+        "id": 4443,
+        "tier": 2,
+        "name": "Weapon - Elemental Force",
+        "itemid": 74725,
+        "stats": "Elemental Force",
+		"statsDE": "Elementarkraft",
+        "version": "mop"
+    },{
+        "id": 4444,
+        "tier": 0,
+        "name": "Weapon - Dancing Steel",
+        "itemid": 84584,
+        "stats": "Dancing Steel",
+		"statsDE": "Tanzender Stahl",
+        "version": "mop"
     }],
     "16": [{
         "id": 4091,
@@ -1677,6 +2242,74 @@
         "stats": "+25 Intellect",
 		"statsDE": "+25 Intelligenz",
         "version": "cataclysm"
+    },{
+        "id": 4434,
+        "tier": 0,
+        "name": "Off-Hand - Major Intellect",
+        "itemid": 74729,
+        "role": "caster",
+        "stats": "+165 Intellect",
+		"statsDE": "+165 Intelligenz",
+        "version": "mop"
+    },{
+        "id": 4993,
+        "tier": 0,
+        "name": "Shield - Greater Parry",
+        "itemid": 89737,
+        "role": "tank",
+        "stats": "+170 Parry Rating",
+		"statsDE": "+170 Parierwertung",
+        "version": "mop"
+    },{
+        "id": 4445,
+        "tier": 2,
+        "name": "Weapon - Colossus",
+        "itemid": 74727,
+        "role": "tank",
+        "stats": "Colossus",
+		"statsDE": "Koloss",
+        "version": "mop"
+    },{
+        "id": 4446,
+        "tier": 0,
+        "name": "Weapon - River's Song",
+        "itemid": 74728,
+        "role": "tank",
+        "stats": "River's Song",
+		"statsDE": "Flussgesang",
+        "version": "mop"
+    },{
+        "id": 4441,
+        "tier": 1,
+        "name": "Weapon - Windsong",
+        "itemid": 74723,
+        "stats": "Windsong",
+		"statsDE": "Windweise",
+        "version": "mop"
+    },{
+        "id": 4442,
+        "tier": 0,
+        "name": "Weapon - Jade Spirit",
+        "itemid": 74724,
+        "stats": "Jade Spirit",
+		"statsDE": "Jadegeist",
+        "version": "mop"
+    },{
+        "id": 4443,
+        "tier": 2,
+        "name": "Weapon - Elemental Force",
+        "itemid": 74725,
+        "stats": "Elemental Force",
+		"statsDE": "Elementarkraft",
+        "version": "mop"
+    },{
+        "id": 4444,
+        "tier": 0,
+        "name": "Weapon - Dancing Steel",
+        "itemid": 84584,
+        "stats": "Dancing Steel",
+		"statsDE": "Tanzender Stahl",
+        "version": "mop"
     }],
     "17": [{
         "id": 4267,
@@ -1714,5 +2347,23 @@
         "stats": "+88 Ranged Hit Rating",
 		"statsDE": "+88 Distanztrefferwertung",
         "version": "cataclysm"
+    },{
+        "id": 4699,
+        "tier": 0,
+        "name": "Lord Blastington's Scope of Doom",
+        "itemid": 77529,
+        "role": "ranged",
+        "stats": "+1800 Agility Proc for 10 seconds",
+		"statsDE": "+1800 Beweglichkeit Proc für 10 Sekunden",
+        "version": "mop"
+    },{
+        "id": 4700,
+        "tier": 0,
+        "name": "Mirror Scope",
+        "itemid": 77531,
+        "role": "ranged",
+        "stats": "+900 Critical Strike Rating proc for 10 seconds",
+		"statsDE": "+1800 Kritische Trefferwertung Proc für 10 Sekunden",
+        "version": "mop"
     }]
 }
