@@ -1332,7 +1332,8 @@
         "name": "Flexweave Underlay",
         "itemid": 55002,
         "stats": "Flexweave Underlay",
-		"statsDE": "Dehnbares Innenfutter"
+		"statsDE": "Dehnbares Innenfutter",
+        "version": "cataclysm"
     },{
         "id": 1354,
         "tier": 2,
@@ -1348,28 +1349,32 @@
         "name": "Rune of the Fallen Crusader",
         "itemid": 53344,
         "stats": "Rune of the Fallen Crusader",
-		"statsDE": "Rune des gefallenen Kreuzfahrers"
+		"statsDE": "Rune des gefallenen Kreuzfahrers",
+        "version": "any"
     },{
         "id": 3847,
         "tier": 0,
         "name": "Rune of the Stoneskin Gargoyle",
         "itemid": 62158,
         "stats": "Rune of the Stoneskin Gargoyle",
-		"statsDE": "Rune des Steinhautgargoyles"
+		"statsDE": "Rune des Steinhautgargoyles",
+        "version": "any"
     },{
         "id": 3370,
         "tier": 0,
         "name": "Rune of Razorice",
         "itemid": 53343,
         "stats": "Rune of Razorice",
-		"statsDE": "Rune des schneidenden Eises"
+		"statsDE": "Rune des schneidenden Eises",
+        "version": "any"
     },{
         "id": 3883,
         "tier": 0,
         "name": "Rune of the Nerubian Carapace",
         "itemid": 70164,
         "stats": "Rune of the Nerubian Carapace",
-		"statsDE": "Rune der nerubischen Panzerung"
+		"statsDE": "Rune der nerubischen Panzerung",
+        "version": "any"
     },{
         "id": 4227,
         "tier": 0,
@@ -1568,21 +1573,24 @@
         "name": "Rune of the Fallen Crusader",
         "itemid": 53344,
         "stats": "Rune of the Fallen Crusader",
-		"statsDE": "Rune des gefallenen Kreuzfahrers"
+		"statsDE": "Rune des gefallenen Kreuzfahrers",
+        "version": "any"
     },{
         "id": 3847,
         "tier": 0,
         "name": "Rune of the Stoneskin Gargoyle",
         "itemid": 62158,
         "stats": "Rune of the Stoneskin Gargoyle",
-		"statsDE": "Rune des Steinhautgargoyles"
+		"statsDE": "Rune des Steinhautgargoyles",
+        "version": "any"
     },{
         "id": 3370,
         "tier": 0,
         "name": "Rune of Razorice",
         "itemid": 53343,
         "stats": "Rune of Razorice",
-		"statsDE": "Rune des schneidenden Eises"
+		"statsDE": "Rune des schneidenden Eises",
+        "version": "any"
     },{
         "id": 3883,
         "tier": 0,
