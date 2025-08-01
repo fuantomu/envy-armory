@@ -1875,7 +1875,6 @@
         "tier": 0,
         "name": "Cloak - Superior Intellect",
         "itemid": 84569,
-        "role": "caster",
         "stats": "+180 Intellect",
 		"statsDE": "+180 Intelligenz",
         "version": "mop"
