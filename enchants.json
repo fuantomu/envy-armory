@@ -871,6 +871,35 @@
         "stats": "+170 Intellect and +100 Spirit",
 		"statsDE": "+170 Intelligenz und +100 Willenskraft",
         "version": "mop"
+    },{
+        "id": 4880,
+        "tier": 0,
+        "name": "Primal Leg Reinforcements",
+        "itemid": 124559,
+        "role": "physical",
+        "type": "agility",
+        "stats": "+285 Agility and +165 Critical Strike Rating",
+		"statsDE": "+285 Beweglichkeit und +165 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4881,
+        "tier": 0,
+        "name": "Draconic Leg  Reinforcements",
+        "itemid": 124561,
+        "role": "physical",
+        "type": "strength",
+        "stats": "+285 Strength and +165 Critical Strike Rating",
+		"statsDE": "+285 Stärke und +165 Kritische Trefferwertung",
+        "version": "mop"
+    },{
+        "id": 4882,
+        "tier": 0,
+        "name": "Toughened Leg Armor",
+        "itemid": 124563,
+        "role": "tank",
+        "stats": "+430 Stamina and +165 Dodge Rating",
+		"statsDE": "+430 Ausdauer und +165 Ausweichwertung",
+        "version": "mop"
     }],
     "7": [{
         "id": 4105,
