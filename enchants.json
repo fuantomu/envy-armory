@@ -344,7 +344,7 @@
         "tier": 0,
         "name": "Greater Tiger Fang Inscription",
         "itemid": 83006,
-        "type": "st",
+        "type": "strength",
         "stats": "+200 Strength and +100 Critical Strike Rating",
         "statsDE": "+200 Stärke und +100 kritische Trefferwertung",
         "version": "mop"
@@ -1338,6 +1338,14 @@
         "itemid": 74701,
         "stats": "+170 Dodge Rating",
 		"statsDE": "+170 Ausweichwertung",
+        "version": "mop"
+    },{
+        "id": 4411,
+        "tier": 1,
+        "name": "Bracer - Mastery",
+        "itemid": 84560,
+        "stats": "+170 Mastery",
+		"statsDE": "+170 Meisterschaftswertung",
         "version": "mop"
     }],
     "9": [{
