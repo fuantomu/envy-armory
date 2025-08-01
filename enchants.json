@@ -828,7 +828,6 @@
         "tier": 0,
         "name": "Master's Spellthread",
         "itemid": 125496,
-        "role": "caster",
         "stats": "+285 Intellect and +165 Critical Strike Rating",
 		"statsDE": "+285 Intelligenz und +165 Kritische Trefferwertung",
         "version": "mop"
@@ -837,7 +836,6 @@
         "tier": 0,
         "name": "Sanctified Spellthread",
         "itemid": 125497,
-        "role": "caster",
         "stats": "+285 Intellect and +165 Spirit",
 		"statsDE": "+285 Intelligenz und +165 Willenskraft",
         "version": "mop"
@@ -846,7 +844,6 @@
         "tier": 0,
         "name": "Greater Cerulean Spellthread",
         "itemid": 82445,
-        "role": "caster",
         "stats": "+285 Intellect and +165 Critical Strike Rating",
 		"statsDE": "+285 Intelligenz und +165 Kritische Trefferwertung",
         "version": "mop"
@@ -855,7 +852,6 @@
         "tier": 0,
         "name": "Greater Pearlescent Spellthread",
         "itemid": 82444,
-        "role": "caster",
         "stats": "+285 Intellect and +165 Spirit",
 		"statsDE": "+285 Intelligenz und +165 Willenskraft",
         "version": "mop"
@@ -864,7 +860,6 @@
         "tier": 0,
         "name": "Cerulean Spellthread",
         "itemid": 82445,
-        "role": "caster",
         "stats": "+170 Intellect and +100 Critical Strike Rating",
 		"statsDE": "+170 Intelligenz und +100 Kritische Trefferwertung",
         "version": "mop"
@@ -873,7 +868,6 @@
         "tier": 1,
         "name": "Pearlescent Spellthread",
         "itemid": 82442,
-        "role": "caster",
         "stats": "+170 Intellect and +100 Spirit",
 		"statsDE": "+170 Intelligenz und +100 Willenskraft",
         "version": "mop"
@@ -2361,8 +2355,8 @@
         "name": "Lord Blastington's Scope of Doom",
         "itemid": 77529,
         "role": "ranged",
-        "stats": "+1800 Agility Proc for 10 seconds",
-		"statsDE": "+1800 Beweglichkeit Proc für 10 Sekunden",
+        "stats": "+1800 Agility proc for 10 seconds",
+		"statsDE": "+1800 Beweglichkeit proc für 10 Sekunden",
         "version": "mop"
     },{
         "id": 4700,
