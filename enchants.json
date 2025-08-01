@@ -2107,6 +2107,24 @@
         "stats": "Dancing Steel",
 		"statsDE": "Tanzender Stahl",
         "version": "mop"
+    },{
+        "id": 4699,
+        "tier": 0,
+        "name": "Lord Blastington's Scope of Doom",
+        "itemid": 77529,
+        "role": "ranged",
+        "stats": "+1800 Agility proc for 10 seconds",
+		"statsDE": "+1800 Beweglichkeit proc für 10 Sekunden",
+        "version": "mop"
+    },{
+        "id": 4700,
+        "tier": 1,
+        "name": "Mirror Scope",
+        "itemid": 77531,
+        "role": "ranged",
+        "stats": "+900 Critical Strike Rating proc for 10 seconds",
+		"statsDE": "+1800 Kritische Trefferwertung Proc für 10 Sekunden",
+        "version": "mop"
     }],
     "16": [{
         "id": 4091,
@@ -2349,23 +2367,5 @@
         "stats": "+88 Ranged Hit Rating",
 		"statsDE": "+88 Distanztrefferwertung",
         "version": "cataclysm"
-    },{
-        "id": 4699,
-        "tier": 0,
-        "name": "Lord Blastington's Scope of Doom",
-        "itemid": 77529,
-        "role": "ranged",
-        "stats": "+1800 Agility proc for 10 seconds",
-		"statsDE": "+1800 Beweglichkeit proc für 10 Sekunden",
-        "version": "mop"
-    },{
-        "id": 4700,
-        "tier": 0,
-        "name": "Mirror Scope",
-        "itemid": 77531,
-        "role": "ranged",
-        "stats": "+900 Critical Strike Rating proc for 10 seconds",
-		"statsDE": "+1800 Kritische Trefferwertung Proc für 10 Sekunden",
-        "version": "mop"
     }]
 }
